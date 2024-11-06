@@ -13,6 +13,9 @@ Depending on your health goals, it can be more helpful to view risk ratios by ea
 
 This section provides ranges for the select biomarkers shown above. The % column shows the prevalence in that range from the UK Biobank for ages 40-70, and the following columns show the associated risk ratios for each disease. The VMRs for males and females for each biomarker are shown above the tables as well.
 
+![legendbiorr](/assets/images/legend_bio_rr.png)
+
+
 - [Systolic Blood Pressure](/biomarker/systolic_blood_pressure/)
 - [Grip Strength](/biomarker/grip_strength/)
 - [Pulse Rate](/biomarker/pulse_rate)

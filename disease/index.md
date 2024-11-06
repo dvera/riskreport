@@ -26,5 +26,11 @@ At present, the seven (7) common age-related diseases explored in this report ar
 
 This section provides a two-page report for each of the seven (7) diseases listed above. The first page will include a description and a table below including the strength values for the most predictive biomarkers for that disease, as well as the VMR for that biomarker.
 
+![legendvmr](/assets/images/legend_strength.png)
+
+
 **VMRs in this section are overall ranges, rather than for a specific disease.** The second page includes risk ratios for each of the included biomarkers.
 {: .note }
+
+
+![legendrr](/assets/images/legend_rr.png)

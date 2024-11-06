@@ -1,15 +1,24 @@
 ---
-title: MACE
+title: Heart
 parent: "Risk by Disease"
 ---
 
+
 ## Major Adverse Cardiac Events (MACE)
+
 
 A **Major Adverse Cardiac Event (MACE)** is a heart or blood vessel related event that negatively impacts your health. Examples include heart disease, stroke, heart attack, heart failure, or other adverse coronary outcomes.
 
-![MACE Predictors](/assets/images/table_mace.png)
 
-LDL and Systolic Blood Pressure are included as they are commonly looked at for MACE. However, they are not top predictive biomarkers.
-{: .note }
+Below are suggested target values for the most predictive biomarkers for experiencing MACE in males and females aged 55 to 70 with no prior history of MACE.
 
-![MACE Risk Ratios](/assets/images/rr_mace.png)
+
+![Heartvmr](/assets/images/table_mace.jpg)
+
+
+The table below contains Major Adverse Cardiac Events (MACE) risk ratios for each of the included biomarkers.
+
+
+![Heartrr](/assets/images/disease_rr_mace.jpg)
+
+
