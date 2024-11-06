@@ -27,7 +27,7 @@ This report is designed to serve as a reference when reviewing your blood test r
 
 The first step to understanding your bloodwork is recognizing what a blood test is collecting and measuring. A biomarker, or biological marker, is a measurable indicator of a biological process or condition in your body.1  One of the most common ways to measure certain biomarkers is through blood tests, if the biomarker is present in your blood. 
 
-Biomarkers are the key to understanding your health and early detection of diseases. A simple blood test can give you information about your risk for heart disease, liver disease, mortality, and more.2 Interpreting your blood test results and understanding what each biomarker can tell you about your health is challenging.  In this guide, we present this information in the form of risk ratios and Voloridge<sup>TM<sup> Modeled Range values or VMR<sup>TM<sup> values. 
+Biomarkers are the key to understanding your health and early detection of diseases. A simple blood test can give you information about your risk for heart disease, liver disease, mortality, and more.2 Interpreting your blood test results and understanding what each biomarker can tell you about your health is challenging.  In this guide, we present this information in the form of risk ratios and Voloridge<sup>TM</sup> Modeled Range values or VMR<sup>TM</sup> values. 
 
 
 ## What is a risk ratio?
