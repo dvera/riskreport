@@ -25,9 +25,9 @@ This report is designed to serve as a reference when reviewing your blood test r
 
 ## What is a biomarker?
 
-The first step to understanding your bloodwork is recognizing what a blood test is collecting and measuring. A biomarker, or biological marker, is a measurable indicator of a biological process or condition in your body.1  One of the most common ways to measure certain biomarkers is through blood tests, if the biomarker is present in your blood. 
+The first step to understanding your bloodwork is recognizing what a blood test is collecting and measuring. A biomarker, or biological marker, is a measurable indicator of a biological process or condition in your body.<sup style="font-size: 0.35em;">1</sup>  One of the most common ways to measure certain biomarkers is through blood tests, if the biomarker is present in your blood. 
 
-Biomarkers are the key to understanding your health and early detection of diseases. A simple blood test can give you information about your risk for heart disease, liver disease, mortality, and more.2 Interpreting your blood test results and understanding what each biomarker can tell you about your health is challenging.  In this guide, we present this information in the form of risk ratios and Voloridge<sup style="font-size: 0.35em;">TM</sup> Modeled Range values or VMR<sup style="font-size: 0.35em;">TM</sup> values.
+Biomarkers are the key to understanding your health and early detection of diseases. A simple blood test can give you information about your risk for heart disease, liver disease, mortality, and more.<sup style="font-size: 0.35em;">2</sup> Interpreting your blood test results and understanding what each biomarker can tell you about your health is challenging.  In this guide, we present this information in the form of risk ratios and Voloridge<sup style="font-size: 0.35em;">TM</sup> Modeled Range values or VMR<sup style="font-size: 0.35em;">TM</sup> values.
 
 
 ## What is a risk ratio?
@@ -58,6 +58,6 @@ Most traditional models focus on an individual predictor and its relationship to
 
 ## A Note on Disease Definitions 
 
-Some diseases are defined by comparing specific biomarker levels to established thresholds. For example, type 2 diabetes is typically diagnosed if Hemoglobin A1C levels are at or above 6.5 percent.3 In this case, a risk ratio is no longer meaningful, given that the likelihood someone is diagnosed with such a disease is nearly 100 percent if their biomarker value passes that threshold. However, for the purpose of this guide, values are provided for such biomarkers regardless of these definitions, to maintain consistency and show data trends. 
+Some diseases are defined by comparing specific biomarker levels to established thresholds. For example, type 2 diabetes is typically diagnosed if Hemoglobin A1C levels are at or above 6.5 percent.<sup style="font-size: 0.35em;">3</sup> In this case, a risk ratio is no longer meaningful, given that the likelihood someone is diagnosed with such a disease is nearly 100 percent if their biomarker value passes that threshold. However, for the purpose of this guide, values are provided for such biomarkers regardless of these definitions, to maintain consistency and show data trends. 
 
 
