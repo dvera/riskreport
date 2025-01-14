@@ -8,7 +8,7 @@ permalink: /
 
 # The Voloridge Health Biomarker Reference Guide
 
-A guide for patients and clinicians to understand health through biomarkers (testing) 
+A guide for patients and clinicians to understand health through biomarkers 
 
 **You can download a PDF version of this guide [here](/assets/biomarker_reference_guide_v1.pdf)**
 
