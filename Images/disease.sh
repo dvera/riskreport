@@ -34,13 +34,13 @@ $marker_desc
 $vmr_desc
 
 
-![${menu_name}vmr](/assets/images/table_${id}.jpg)
+![${menu_name}vmr](/assets/images/table_${id}.png)
 
 
 The table below contains $long_name risk ratios for each of the included biomarkers.
 
 
-![${menu_name}rr](/assets/images/disease_rr_${id}.jpg)
+![${menu_name}rr](/assets/images/rr_${id}.png)
 
 " > ../disease/${id}.md
 

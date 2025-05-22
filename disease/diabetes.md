@@ -13,12 +13,12 @@ parent: "Risk by Disease"
 Below are suggested target values for the most predictive biomarkers for developing Type 2 Diabetes in males and females aged 40 to 70.
 
 
-![Diabetesvmr](/assets/images/table_diabetes.jpg)
+![Diabetesvmr](/assets/images/table_diabetes.png)
 
 
 The table below contains Type 2 Diabetes (T2D) risk ratios for each of the included biomarkers.
 
 
-![Diabetesrr](/assets/images/disease_rr_diabetes.jpg)
+![Diabetesrr](/assets/images/rr_diabetes.png)
 
 
