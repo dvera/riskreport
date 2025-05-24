@@ -34,7 +34,7 @@ Biomarkers are the key to understanding your health and early detection of disea
 
 A risk ratio is a statistic used to describe your risk for a specific disease relative to other people your age and gender. A risk ratio of one (1) means your risk is exactly average for your age. A risk ratio from zero (0) to one (1) means your risk is lower than the average for your age. This suggests you are doing better than your peers. If your risk ratio is higher than one (1), you have an elevated risk for the disease compared to your peers. 
 
-![riskratiolegend]({{ site.baseurl }}/assets/images/rrlegend.png)
+![riskratiolegend]({{ site.baseurl }}/assets/images/rrlegend_v2.png)
 
 ## What is a VMR value? 
 
