@@ -6,12 +6,9 @@ has_children: TRUE
 ---
 
 
-# VMRs by Disease
+# Most Predictive Biomarkers by Disease
 
-This section provides VMRs for each of the most predictive biomarkers for measuring the likelihood of getting a disease. These are provided as a reference for patients to compare their blood test results to. The data apply to clinically relevant age ranges for each disease.
-
-At present, the seven (7) common age-related diseases explored in this report are All-Cause Mortality, Major Adverse Cardiac Events (MACE), Type 2 Diabetes (T2D), Dementia, Kidney/Renal Disease, Liver Disease, and Chronic Obstructive Pulmonary Disease (COPD), given their prevalence and individual impacts on aging and mortality. The table below can be used to link to a specific disease.
-
+This section provides VMR™ values for our models' most predictive biomarkers in each of the seven categories listed below. The VMR values apply to clinically relevant age ranges for each disease. You can use them as a reference to compare your own blood test results, but it is imperative to review all interpretation and treatment decisions with your physician.
 
 - [Major Adverse Cardiac Events (MACE)](/disease//mace/)
 - [Type 2 Diabetes (T2D)](/disease/diabetes/)
@@ -22,15 +19,12 @@ At present, the seven (7) common age-related diseases explored in this report ar
 - [All-Cause Mortality](/disease/mortality/)
 
 
-## Reading this Section
+## About this Section
 
-This section provides a two-page report for each of the seven (7) diseases listed above. The first page will include a description and a table below including the strength values for the most predictive biomarkers for that disease, as well as the VMR for that biomarker.
+This section provides two parts. The first part includes a description of the disease category and a table portraying the strength values for our model's most predictive biomarkers for that disease, as well as the VMR for each biomarker. Note that VMR in this section are overall ranges, rather than values for a specific disease.
 
 ![legendvmr](/assets/images/legend_strength_v2.png)
 
-
-**VMRs in this section are overall ranges, rather than for a specific disease.** The second page includes risk ratios for each of the included biomarkers.
-{: .note }
-
+The second part of each disease page includes disease-specific risk multipliers for each of the included biomarkers.
 
 ![legendrr](/assets/images/legend_rr_v2.png)
