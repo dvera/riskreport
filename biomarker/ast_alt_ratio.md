@@ -1,6 +1,6 @@
 ---
 title: "AST/ALT Ratio"
-parent: "Comprehensive Metabolic Panel"
+parent: "Metabolic Panel"
 grand_parent: "Risk by Biomarker"
 nav_order: "Ratio of two liver enzymes. Helps distinguish between different types of liver disease, such as alcoholic vs. non-alcoholic liver injury."
 ---

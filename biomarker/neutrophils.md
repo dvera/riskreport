@@ -1,6 +1,6 @@
 ---
 title: "Neutrophil Count"
-parent: "Complete Blood Counts"
+parent: "CBC (Complete Blood Counts)"
 grand_parent: "Risk by Biomarker"
 nav_order: "Most abundant white blood cell type, crucial for fighting bacterial infections. High counts suggest infection or inflammation."
 ---

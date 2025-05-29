@@ -1,6 +1,6 @@
 ---
 title: "Alanine Aminotransferase (ALT)"
-parent: "Comprehensive Metabolic Panel"
+parent: "Metabolic Panel"
 grand_parent: "Risk by Biomarker"
 nav_order: "Liver enzyme involved in amino acid metabolism. High ALT suggests liver cell injury from hepatitis, fatty liver, or toxins."
 ---

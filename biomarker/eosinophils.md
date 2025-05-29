@@ -1,6 +1,6 @@
 ---
 title: "Eosinophil Count"
-parent: "Complete Blood Counts"
+parent: "CBC (Complete Blood Counts)"
 grand_parent: "Risk by Biomarker"
 nav_order: "Type of white blood cell involved in allergic reactions and fighting parasites. High counts may indicate allergies, asthma, or parasitic infection."
 ---

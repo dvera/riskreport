@@ -1,6 +1,6 @@
 ---
 title: "Mean Corpuscular Volume (MCV)"
-parent: "Complete Blood Counts"
+parent: "CBC (Complete Blood Counts)"
 grand_parent: "Risk by Biomarker"
 nav_order: "Measures the average size of red blood cells. Used to classify types of anemia and assess bone marrow function. Abnormal values can indicate vitamin B12/folate deficiency, iron deficiency, or chronic disease."
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Red Cell Distribution Width (RDW)"
-parent: "Complete Blood Counts"
+parent: "CBC (Complete Blood Counts)"
 grand_parent: "Risk by Biomarker"
 nav_order: Measures variation in red blood cell size. High RDW can indicate mixed types of anemia or other blood disorders.
 ---

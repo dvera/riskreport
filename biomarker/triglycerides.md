@@ -1,6 +1,6 @@
 ---
 title: "Triglycerides"
-parent: "Lipid Panel"
+parent: "Lipids"
 grand_parent: "Risk by Biomarker"
 nav_order: Main form of fat in the blood. High levels are linked to increased risk of heart disease and pancreatitis.
 ---

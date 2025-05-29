@@ -1,6 +1,6 @@
 ---
 title: "Lymphocyte Count"
-parent: "Complete Blood Counts"
+parent: "CBC (Complete Blood Counts)"
 grand_parent: "Risk by Biomarker"
 nav_order: "Absolute number of lymphocytes in blood, reflecting immune system activity."
 ---

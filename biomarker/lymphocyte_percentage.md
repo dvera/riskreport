@@ -1,6 +1,6 @@
 ---
 title: "Lymphocyte Percentage"
-parent: "Complete Blood Counts"
+parent: "CBC (Complete Blood Counts)"
 grand_parent: "Risk by Biomarker"
 nav_order: "Proportion of white blood cells that are lymphocytes, key to immune defense. Abnormal values may indicate infection, immune disorders, or blood cancers."
 ---

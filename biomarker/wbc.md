@@ -1,6 +1,6 @@
 ---
 title: "White Blood Cell Count"
-parent: "Complete Blood Counts"
+parent: "CBC (Complete Blood Counts)"
 grand_parent: "Risk by Biomarker"
 nav_order: "Total number of white blood cells in blood, reflecting immune system activity and response to infection or inflammation."
 ---

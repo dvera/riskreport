@@ -1,6 +1,6 @@
 ---
 title: "Blood Glucose"
-parent: "Comprehensive Metabolic Panel"
+parent: "Metabolic Panel"
 grand_parent: "Risk by Biomarker"
 nav_order: "Measures blood sugar level. Used to diagnose and monitor diabetes. Regulated by insulin, produced/processed by pancreas and liver."
 ---

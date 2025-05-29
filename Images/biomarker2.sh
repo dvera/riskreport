@@ -7,7 +7,7 @@ file="biomarker2.tsv"
 
 tail -n +2 "$file" | while IFS=$'\t' read -r id cat menu_name order desc; do
 
-cat_name=$(awk -F $'\t' -v key="$cat" '$1 == key { print $2 }' biomarker_cat.tsv)
+cat_name=$(awk -F $'\t' -v key="$cat" '$1 == key { print $2 }' biomarker_cat3.tsv)
 
 
 echo "$cat $menu_name $desc $cat_name"

@@ -1,6 +1,6 @@
 ---
 title: "LDL Cholesterol"
-parent: "Lipid Panel"
+parent: "Lipids"
 grand_parent: "Risk by Biomarker"
 nav_order: "Bad cholesterol that can build up in arteries, increasing risk for heart disease and stroke."
 ---

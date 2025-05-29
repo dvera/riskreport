@@ -1,6 +1,6 @@
 ---
 title: "Hematocrit"
-parent: "Complete Blood Counts"
+parent: "CBC (Complete Blood Counts)"
 grand_parent: "Risk by Biomarker"
 nav_order: Percentage of blood volume made up by red blood cells. Low values suggest anemia; high values may indicate dehydration or polycythemia.
 ---

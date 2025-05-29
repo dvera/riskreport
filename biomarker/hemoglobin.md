@@ -1,6 +1,6 @@
 ---
 title: "Hemoglobin"
-parent: "Complete Blood Counts"
+parent: "CBC (Complete Blood Counts)"
 grand_parent: "Risk by Biomarker"
 nav_order: Protein in red blood cells that carries oxygen. Low hemoglobin indicates anemia; high levels may occur in certain diseases.
 ---

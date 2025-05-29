@@ -1,6 +1,6 @@
 ---
 title: "Aspartate Aminotransferase (AST)"
-parent: "Comprehensive Metabolic Panel"
+parent: "Metabolic Panel"
 grand_parent: "Risk by Biomarker"
 nav_order: "Enzyme in liver, heart, and muscle. Elevated AST can indicate liver damage, muscle injury, or heart problems."
 ---

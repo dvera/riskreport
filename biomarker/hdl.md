@@ -1,6 +1,6 @@
 ---
 title: "HDL Cholesterol"
-parent: "Lipid Panel"
+parent: "Lipids"
 grand_parent: "Risk by Biomarker"
 nav_order: Good cholesterol that helps remove excess cholesterol from blood. High HDL is protective against heart disease.
 ---
