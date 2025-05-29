@@ -49,7 +49,7 @@ Many traditional models focus on an individual predictor and its relationship to
 
 Another way Voloridge Health evaluates how biomarkers can predict health is with a predictive strength value. This metric demonstrates how strongly each biomarker correlates with a specific disease. In the *VMR Values by Disease* section of this guide, the biomarkers are colored with a gradient as illustrated in the graphic below. White represents a lower strength, while green represents a higher strength.
 
-![riskmultiplier](/assets/images/pstrength.png)\
+![riskmultiplier](/assets/images/pstrength.png)
 
 
 Additionally, you can find all biomarkers and their predictive strength values in the *Predictive Strength Values*  section. We scale predictive strength from zero (no predictive strength) to 10, the highest predictive strength. A value of 7 would have 70% of the predictive strength of a value of 10.

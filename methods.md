@@ -1,11 +1,12 @@
-# Methods
-
 ---
 layout: default
 title: "Methods"
 nav_order: 10
 has_children: FALSE
 ---
+
+# Methods
+
 
 ## Strength
 

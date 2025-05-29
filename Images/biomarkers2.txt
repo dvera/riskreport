@@ -2,7 +2,7 @@ id	cat	menu_name	order	desc
 crp	adv	C-Reactive Protein (CRP)	1	Protein produced by the liver in response to inflammation. High CRP signals acute or chronic inflammation and is a risk marker for heart disease.
 cystatin_C	adv	Cystatin C	1	"Protein produced by all nucleated cells, filtered by kidneys. Sensitive marker of kidney function, often more reliable than creatinine."
 ggt	adv	Gamma-Glutamyl Transferase (GGT)	1	"Enzyme involved in liver function and bile production. High GGT can indicate liver disease, bile duct problems, or alcohol use."
-lpa	adv	Lipoprotein(a)	1	Lipoprotein particle similar to LDL with an added protein. High levels are a genetic risk factor for cardiovascular disease.
+lpa	lipid	Lipoprotein(a)	1	Lipoprotein particle similar to LDL with an added protein. High levels are a genetic risk factor for cardiovascular disease.
 shbg	adv	Sex Hormone-Binding Globulin (SHBG)	1	"Protein that binds sex hormones (testosterone, estrogen) in blood, regulating their availability to tissues."
 testosterone	adv	Testosterone	1	"Main male sex hormone, important for muscle mass, bone density, and reproductive health. Abnormal levels affect mood, energy, and sexual function."
 vitamin_d	adv	Vitamin D Level	1	"Fat-soluble vitamin produced in skin with sun exposure and obtained from diet. Essential for bone health, immune function, and reducing risk of chronic diseases."
