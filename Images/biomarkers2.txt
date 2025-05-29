@@ -13,7 +13,7 @@ grip_strength	basic	Hand Grip Strength	7	"Assesses muscular strength using a han
 resting_heartrate	basic	Resting Heart Rate	4	Number of heartbeats per minute at rest. Lower rates generally indicate better cardiovascular fitness.
 systolic_blood_pressure	basic	Systolic Blood Pressure	3	"Top number in a blood pressure reading, representing pressure in arteries when the heart beats. High levels are a major risk factor for heart disease and stroke."
 waist_circumference	basic	Waist Circumference	5	"Measurement around the abdomen. High values indicate abdominal obesity, a strong risk factor for metabolic syndrome, diabetes, and heart disease."
-MCV	cbc	Mean Corpuscular Volume (MCV)	6	"Measures the average size of red blood cells. Used to classify types of anemia and assess bone marrow function. Abnormal values can indicate vitamin B12/folate deficiency, iron deficiency, or chronic disease."
+mcv	cbc	Mean Corpuscular Volume (MCV)	6	"Measures the average size of red blood cells. Used to classify types of anemia and assess bone marrow function. Abnormal values can indicate vitamin B12/folate deficiency, iron deficiency, or chronic disease."
 eosinophils	cbc	Eosinophil Count	3	"Type of white blood cell involved in allergic reactions and fighting parasites. High counts may indicate allergies, asthma, or parasitic infection."
 hematocrit	cbc	Hematocrit	5	Percentage of blood volume made up by red blood cells. Low values suggest anemia; high values may indicate dehydration or polycythemia.
 hemoglobin	cbc	Hemoglobin	5	Protein in red blood cells that carries oxygen. Low hemoglobin indicates anemia; high levels may occur in certain diseases.
