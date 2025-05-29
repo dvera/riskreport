@@ -1,25 +1,10 @@
 #!/bin/bash
 
 # Input file
-file="biomarker_cat2.tsv"
-file2="${csv_file%.csv}.tsv"
+file="biomarker_cat2.txt"
+file2="biomarker_cat3.tsv"
 
-iconv -f UTF-16LE -t UTF-8 $file | 
-awk '
-BEGIN {
-  FS="\",\""; OFS="\t"
-}
-NR == 1 {
-  sub(/^"/, "", $1)
-  sub(/"$/, "", NF)
-}
-NR > 1 {
-  sub(/^"/, "", $1)
-  sub(/"$/, "", $NF)
-}
-{
-  print
-}' | sed 's/^"\(.*\)"$/\1/; s/"//g' > ${file2}
+iconv -f UTF-16LE -t UTF-8 $file | sed 's/^"\(.*\)"$/\1/; s/"//g' > ${file2}
 
 #cats=$(cut -f 2 biomarker2.tsv | sort | uniq)
 
@@ -43,3 +28,22 @@ $desc
 " | sed 's/^"\(.*\)"$/\1/' > ../biomarker/${cat}.md
 
 done
+
+
+
+#| 
+#awk '
+#BEGIN {
+#  FS="\",\""; OFS="\t"
+#}
+#NR == 1 {
+#  sub(/^"/, "", $1)
+#  sub(/"$/, "", NF)
+#}
+#NR > 1 {
+#  sub(/^"/, "", $1)
+#  sub(/"$/, "", $NF)
+#}
+#{
+#  print
+#}' |

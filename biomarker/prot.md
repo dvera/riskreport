@@ -2,7 +2,7 @@
 title: "Proteins"
 parent: "Risk by Biomarker"
 has_children: TRUE
-nav_order: 
+nav_order: 8
 ---
 
 
