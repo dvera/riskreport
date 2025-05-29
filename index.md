@@ -22,15 +22,15 @@ This guide explores seven common age-associated, disease-related outcomes relate
 
 ## What is a biomarker?
 
-The first step to understanding your bloodwork is recognizing what a blood test is collecting and measuring. A biomarker, or biological marker, is a measurable indicator of a biological process or condition in your body.[[1]](#_ftn1)   One of the most common ways to measure certain biomarkers is through blood tests, if the biomarker is present in your blood.
+The first step to understanding your bloodwork is recognizing what a blood test is collecting and measuring. A biomarker, or biological marker, is a measurable indicator of a biological process or condition in your body.[[1]](#ftn1)  One of the most common ways to measure certain biomarkers is through blood tests, if the biomarker is present in your blood.
 
 
-Biomarkers offer insights into your health, including early detection of diseases. A simple blood test can provide valuable information about your risk for heart (cardiac) disease, liver disease, mortality, and more.[[2]](#_ftn2)  Understanding what biomarkers reveal about your personal health is the key to an accurate interpretation of your blood test results. To assist with this challenge, we present information in this guide in the form of risk multipliers and Voloridge™ Modeled Range values or VMR™ values.
+Biomarkers offer insights into your health, including early detection of diseases. A simple blood test can provide valuable information about your risk for heart (cardiac) disease, liver disease, mortality, and more.[[2]](#ftn2)  Understanding what biomarkers reveal about your personal health is the key to an accurate interpretation of your blood test results. To assist with this challenge, we present information in this guide in the form of risk multipliers and Voloridge™ Modeled Range values or VMR™ values.
 
 
 ## What is a risk multiplier?
 
-A risk multiplier represents the association between biomarker values and future incidence of a disease. The biomarker range associated with the lowest incidence is assigned a risk multiplier of 1.  After that, if for example a biomarker range has a 40% increase in incidence, it would have a value of 1.4. All risk multiplier values are separated by gender and represent relative incidence of the disease compared to others your age.
+A risk multiplier represents the association between biomarker values and future incidence of a disease. The biomarker range associated with the lowest incidence is assigned a risk multiplier of 1. After that, if for example a biomarker range has a 40% increase in incidence, it would have a value of 1.4. All risk multiplier values are separated by gender and represent relative incidence of the disease compared to others your age.
 
 ![riskmultiplier](/assets/images/riskmultiplier.png)
 
@@ -43,7 +43,7 @@ Reference ranges typically provided with blood test results are population based
 
 ## What makes Voloridge Health different?
 
-Many traditional models focus on an individual predictor and its relationship to a single outcome. An example of this is measuring cholesterol and its relationship to heart disease. Furthermore, ranges typical in medical literature are based on clinical recommendations and/or population averages rather than connecting biomarkers with longer-term health outcome probabilities. In contrast, Voloridge Health examines many health predictors across multiple potential disease outcomes together. Our VMR values are based on real data associations between biomarker ranges and 15-year disease outcomes. By evaluating each health predictor in an unbiased manner, we derive a fully data-driven, long-term view of health risks. This guide is designed to help you see patterns single-variable studies might miss, supporting a proactive and holistic approach to healthcare.  
+Many traditional models focus on an individual predictor and its relationship to a single outcome. An example of this is measuring cholesterol and its relationship to heart disease. Furthermore, ranges typical in medical literature are based on clinical recommendations and/or population averages rather than connecting biomarkers with longer-term health outcome probabilities. In contrast, Voloridge Health examines many health predictors across multiple potential disease outcomes together. Our VMR values are based on real data associations between biomarker ranges and 15-year disease outcomes. By evaluating each health predictor in an unbiased manner, we derive a fully data-driven, long-term view of health risks. This guide is designed to help you see patterns single-variable studies might miss, supporting a proactive and holistic approach to healthcare.
 
 ## Predictive strength
 
@@ -56,7 +56,7 @@ Additionally, you can find all biomarkers and their predictive strength values i
 
 ## Disease definitions
 
-Some diseases are defined by comparing specific biomarker levels to established thresholds. For example, type 2 diabetes is typically diagnosed if Hemoglobin A1C levels are at or above 6.5 percent.[^[3]^](#_ftn3)In this case, a risk multiplier is no longer meaningful, given the likelihood someone is diagnosed with such a disease is nearly 100 percent if their biomarker value passes that threshold. However, for the purpose of this guide, values are provided for such biomarkers regardless of these definitions, to maintain consistency and show data trends.
+Some diseases are defined by comparing specific biomarker levels to established thresholds. For example, type 2 diabetes is typically diagnosed if Hemoglobin A1C levels are at or above 6.5 percent.[[3]](#ftn3) In this case, a risk multiplier is no longer meaningful, given the likelihood someone is diagnosed with such a disease is nearly 100 percent if their biomarker value passes that threshold. However, for the purpose of this guide, values are provided for such biomarkers regardless of these definitions, to maintain consistency and show data trends.
 
 
 ## Disclaimer
@@ -66,10 +66,13 @@ This guide presents blood biomarker and related information solely for informati
 
 * * * * *
 
-[[1]](#_ftnref1) Califf, Robert M. "Biomarker definitions and their applications." Experimental biology and medicine 243, no. 3 (2018): 213-221.
+<a name="ftn1"></a>
+[1] Califf, Robert M. "Biomarker definitions and their applications." Experimental biology and medicine 243, no. 3 (2018): 213-221.
 
-[[2]](#_ftnref2)  Kristensen, Michael, Anne Kristine Servais Iversen, Thomas Alexander Gerds, Rebecca Østervig, Jakob Danker Linnet, Charlotte Barfod, Kai Henrik Wiborg Lange et al. "Routine blood tests are associated with short term mortality and can improve emergency department triage: a cohort study of> 12,000 patients." Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine 25 (2017): 1-8.
+<a name="ftn2"></a>
+[2]  Kristensen, Michael, Anne Kristine Servais Iversen, Thomas Alexander Gerds, Rebecca Østervig, Jakob Danker Linnet, Charlotte Barfod, Kai Henrik Wiborg Lange et al. "Routine blood tests are associated with short term mortality and can improve emergency department triage: a cohort study of> 12,000 patients." Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine 25 (2017): 1-8.
 
-[[3]](#_ftnref3)Chatterjee, Sudesna, Kamlesh Khunti, and Melanie J. Davies. "Type 2 diabetes." The lancet 389, no. 10085 (2017): 2239-2251.
+<a name="ftn3"></a>
+[3] Chatterjee, Sudesna, Kamlesh Khunti, and Melanie J. Davies. "Type 2 diabetes." The lancet 389, no. 10085 (2017): 2239-2251.
 
 
