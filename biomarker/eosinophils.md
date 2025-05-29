@@ -1,13 +1,14 @@
 ---
-title: Eosinophil Count
-parent: "Risk by Biomarker"
+title: "Eosinophil Count"
+parent: "Complete"
+grand_parent: "Risk by Biomarker"
 ---
 
 
 ## Eosinophil Count
 
 
-Eosinophil Count is a type of white blood cell helping the body fight off infections and react to allergens. Eosinophils are part of the immune system and usually make up a small percentage of the total white blood cells. A higher-than-normal eosinophil count can indicate an allergic reaction, asthma, or a parasitic infection. It also can signal certain inflammatory conditions or autoimmune diseases. A low count is usually normal and not a cause for concern. By checking eosinophil levels, clinicians gain insight into immune activity and better understand symptoms related to allergies or inflammation.
+"Type of white blood cell involved in allergic reactions and fighting parasites. High counts may indicate allergies, asthma, or parasitic infection."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

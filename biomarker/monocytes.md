@@ -1,13 +1,14 @@
 ---
-title: Monocyte Count
-parent: "Risk by Biomarker"
+title: "Monocyte Count"
+parent: "Complete"
+grand_parent: "Risk by Biomarker"
 ---
 
 
 ## Monocyte Count
 
 
-Monocyte Count is part of a complete blood count (CBC) and measures type of white blood cell that helps fight infection. Abnormal monocyte counts can be seen in infections, autoimmune diseases, or bone marrow disorders. A CBC is a group of blood tests measuring the number and size of the different cells in your blood.
+White blood cell type involved in immune defense and inflammation. High counts can indicate infection or chronic inflammation.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

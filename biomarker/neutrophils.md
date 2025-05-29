@@ -1,13 +1,14 @@
 ---
-title: Neutrophil Count
-parent: "Risk by Biomarker"
+title: "Neutrophil Count"
+parent: "Complete"
+grand_parent: "Risk by Biomarker"
 ---
 
 
 ## Neutrophil Count
 
 
-Neutrophil Count is part of a complete blood count (CBC) and measures a type of white blood cell that helps fight infection. Neutrophil count is part of a CBC and can be elevated in bacterial infections or reduced in conditions affecting bone marrow. A CBC is a group of blood tests measuring the number and size of the different cells in your blood.
+"Most abundant white blood cell type, crucial for fighting bacterial infections. High counts suggest infection or inflammation."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
