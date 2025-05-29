@@ -9,7 +9,7 @@ nav_order: 1
 ## Beer/Cider Consumption
 
 
-"Self-reported frequency of drinking beer or cider. **Units indicated are servings per week.** Alcohol intake affects liver, heart, and cancer risk."
+"Self-reported frequency of drinking beer or cider. **Units indicated are servings per week.** Alcohol intake affects liver, heart, and cancer risk. **These results are based on an analysis of survey questions.**"
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

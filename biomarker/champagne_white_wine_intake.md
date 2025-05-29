@@ -9,7 +9,7 @@ nav_order: 1
 ## Champagne/White Wine Consumption
 
 
-Self-reported intake of champagne or white wine. **Units indicated are servings per week.** Moderate consumption may have some heart benefits; excess increases risk for liver disease and cancer.
+Self-reported intake of champagne or white wine. **Units indicated are servings per week.** Moderate consumption may have some heart benefits; excess increases risk for liver disease and cancer. **These results are based on an analysis of survey questions.**
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

@@ -9,7 +9,7 @@ nav_order: 1
 ## Poultry Consumption
 
 
-Self-reported frequency of eating chicken or turkey. **Units indicated are servings per week.** Poultry is a source of lean protein and other nutrients.
+Self-reported frequency of eating chicken or turkey. **Units indicated are servings per week.** Poultry is a source of lean protein and other nutrients. **These results are based on an analysis of survey questions.**
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

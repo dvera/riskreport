@@ -9,7 +9,7 @@ nav_order: 1
 ## Beef Consumption
 
 
-Self-reported frequency of eating beef. High intake is associated with increased risk of heart disease and certain cancers.
+Self-reported frequency of eating beef. High intake is associated with increased risk of heart disease and certain cancers. **These results are based on an analysis of survey questions.**
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

@@ -9,7 +9,7 @@ nav_order: 1
 ## Salt Added to Food
 
 
-Frequency of adding salt to meals. High salt intake is linked to high blood pressure and increased risk of heart disease and stroke.
+Frequency of adding salt to meals. High salt intake is linked to high blood pressure and increased risk of heart disease and stroke. **These results are based on an analysis of survey questions.**
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

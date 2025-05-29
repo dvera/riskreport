@@ -9,7 +9,7 @@ nav_order: 1
 ## Red Wine Consumption
 
 
-Frequency of drinking red wine. **Units indicated are servings per week.** Moderate intake may have heart benefits; excess increases risk for liver disease and cancer.
+Frequency of drinking red wine. **Units indicated are servings per week.** Moderate intake may have heart benefits; excess increases risk for liver disease and cancer. **These results are based on an analysis of survey questions.**
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

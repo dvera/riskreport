@@ -9,7 +9,7 @@ nav_order: 1
 ## Water Intake
 
 
-"Self-reported amount of water consumed daily. Adequate hydration is essential for all bodily functions, including temperature regulation, kidney health, and cognitive performance."
+"Self-reported amount of water consumed daily. Adequate hydration is essential for all bodily functions, including temperature regulation, kidney health, and cognitive performance. **These results are based on an analysis of survey questions.**"
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
