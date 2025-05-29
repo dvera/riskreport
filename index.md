@@ -32,7 +32,7 @@ Biomarkers offer insights into your health, including early detection of disease
 
 A risk multiplier represents the association between biomarker values and future incidence of a disease. The biomarker range associated with the lowest incidence is assigned a risk multiplier of 1.  After that, if for example a biomarker range has a 40% increase in incidence, it would have a value of 1.4. All risk multiplier values are separated by gender and represent relative incidence of the disease compared to others your age.
 
-![riskmultiplier](/assets/images/riskmultiplier.png)\
+![riskmultiplier](/assets/images/riskmultiplier.png)
 
 ## What is a VMR value?
 

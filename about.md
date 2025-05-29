@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About Us"
-nav_order: 8
+nav_order: 99
 ---
 
 # About Voloridge Health, LLC
