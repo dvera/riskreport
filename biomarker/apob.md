@@ -1,6 +1,6 @@
 ---
 title: "Apolipoprotein B (ApoB)"
-parent: "Lipid"
+parent: "Lipid Panel"
 grand_parent: "Risk by Biomarker"
 ---
 

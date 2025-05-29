@@ -1,6 +1,6 @@
 ---
 title: "AST/ALT Ratio"
-parent: "Comprehensive"
+parent: "Comprehensive Metabolic Panel"
 grand_parent: "Risk by Biomarker"
 ---
 

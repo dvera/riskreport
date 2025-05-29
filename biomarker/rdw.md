@@ -1,6 +1,6 @@
 ---
 title: "Red Cell Distribution Width (RDW)"
-parent: "Complete"
+parent: "Complete Blood Counts"
 grand_parent: "Risk by Biomarker"
 ---
 

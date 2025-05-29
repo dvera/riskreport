@@ -1,6 +1,6 @@
 ---
 title: "Aspartate Aminotransferase (AST)"
-parent: "Comprehensive"
+parent: "Comprehensive Metabolic Panel"
 grand_parent: "Risk by Biomarker"
 ---
 

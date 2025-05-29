@@ -1,6 +1,6 @@
 ---
 title: "Sex Hormone-Binding Globulin (SHBG)"
-parent: "Advanced"
+parent: "Advanced Biomarkers"
 grand_parent: "Risk by Biomarker"
 ---
 

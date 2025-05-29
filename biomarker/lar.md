@@ -1,6 +1,6 @@
 ---
 title: "LDL-to-ApoB Ratio"
-parent: "Lipid"
+parent: "Lipid Panel"
 grand_parent: "Risk by Biomarker"
 ---
 

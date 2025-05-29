@@ -1,6 +1,6 @@
 ---
 title: "Alkaline Phosphatase (ALP)"
-parent: "Comprehensive"
+parent: "Comprehensive Metabolic Panel"
 grand_parent: "Risk by Biomarker"
 ---
 

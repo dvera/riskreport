@@ -1,6 +1,6 @@
 ---
 title: "Gamma-Glutamyl Transferase (GGT)"
-parent: "Advanced"
+parent: "Advanced Biomarkers"
 grand_parent: "Risk by Biomarker"
 ---
 

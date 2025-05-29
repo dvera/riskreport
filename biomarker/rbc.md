@@ -1,6 +1,6 @@
 ---
 title: "Red Blood Cell Count"
-parent: "Complete"
+parent: "Complete Blood Counts"
 grand_parent: "Risk by Biomarker"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Triglycerides"
-parent: "Lipid"
+parent: "Lipid Panel"
 grand_parent: "Risk by Biomarker"
 ---
 

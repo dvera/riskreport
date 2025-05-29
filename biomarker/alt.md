@@ -1,6 +1,6 @@
 ---
 title: "Alanine Aminotransferase (ALT)"
-parent: "Comprehensive"
+parent: "Comprehensive Metabolic Panel"
 grand_parent: "Risk by Biomarker"
 ---
 

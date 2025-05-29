@@ -1,6 +1,6 @@
 ---
 title: "Hemoglobin A1c (HbA1c)"
-parent: "Comprehensive"
+parent: "Comprehensive Metabolic Panel"
 grand_parent: "Risk by Biomarker"
 ---
 

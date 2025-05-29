@@ -1,6 +1,6 @@
 ---
 title: "Eosinophil Count"
-parent: "Complete"
+parent: "Complete Blood Counts"
 grand_parent: "Risk by Biomarker"
 ---
 
