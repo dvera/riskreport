@@ -1,24 +1,24 @@
 ---
-title: Diabetes
+title: Metabolic
 parent: "Risk by Disease"
 ---
 
 
-## Type 2 Diabetes (T2D)
+## Metabolic Health
 
 
-**Type 2 Diabetes (T2D)** occurs when the body develops a resistance to insulin, or your pancreas fails to produce enough insulin. This results in the body being unable to process and use sugar properly.
+"For metabolic health we model and predict **type 2 diabetes,** a chronic disease characterized by high levels of glucose in the blood. This is a result of the body developing a resistance to insulin, or the pancreas fails to produce enough insulin. This results in the body's inability to process and use sugar (glucose) properly. High blood sugar increases risk for heart attack, stroke, dementia, kidney disease, vision loss, and infections."
 
 
-Below are suggested target values for the most predictive biomarkers for developing Type 2 Diabetes in males and females aged 40 to 70.
+Below are values for our model's most predictive biomarkers for developing type 2 diabetes in males and females aged 40 to 70.
 
 
-![Diabetesvmr](/assets/images/table_diabetes.png)
+![Metabolicvmr](/assets/images/table_diabetes.png)
 
 
-The table below contains Type 2 Diabetes (T2D) risk ratios for each of the included biomarkers.
+The table below contains Metabolic Health risk ratios for each of the included biomarkers.
 
 
-![Diabetesrr](/assets/images/rr_diabetes.png)
+![Metabolicrr](/assets/images/rr_diabetes.png)
 
 

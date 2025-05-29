@@ -4,19 +4,19 @@ parent: "Risk by Disease"
 ---
 
 
-## Chronic Obstructive Pulmonary Disease
+## Lung Health
 
 
-**Chronic Obstructive Pulmonary Disease (COPD)** is a class of progressive lung diseases that results in difficulty breathing.
+"For lung health we model and predict **chronic obstructive pulmonary disease (COPD)**, a class of progressive lung disease resulting in difficulty breathing, and negatively impacts overall health."
 
 
-Below are suggested target values for our model's most predictive biomarkers or inputs for developing COPD in males and females aged 50 to 70.
+Below are values for our model's most predictive biomarkers or inputs for developing COPD in males and females aged 50 to 70.
 
 
 ![Lungvmr](/assets/images/table_copd.png)
 
 
-The table below contains Chronic Obstructive Pulmonary Disease risk ratios for each of the included biomarkers.
+The table below contains Lung Health risk ratios for each of the included biomarkers.
 
 
 ![Lungrr](/assets/images/rr_copd.png)

@@ -20,7 +20,7 @@ For comparison, below are the most predictive biomarkers in our model inputs for
 
 ## Cystatin C is one of the most predictive markers for several diseases.
 
-Cystatin C is a protein found in the blood measuring kidney function. It is not commonly monitored[^^[1]^^](#_ftn1).  However, our models found Cystatin C in the top predictive biomarkers for every disease analyzed.
+Cystatin C is a protein found in the blood measuring kidney function. It is not commonly monitored[[1]](#_ftn1).  However, our models found Cystatin C in the top predictive biomarkers for every disease analyzed.
 
 Below are the six diseases where Cystatin C was a top predictor, ordered by strength of association. The "Rank" column shows where on the list Cystatin C ranks in comparison to the other biomarkers.
 
@@ -36,7 +36,7 @@ Lipoprotein(a) did not emerge as a top predictor for any disease on our list - d
 
 Smoking places enormous strains on the body in many ways including the impairment of cardiovascular and lung functions. It is never too late to quit using tobacco. The sooner a person quits smoking, the greater the individual reduction in cancer and other diseases.
 
-Our initial findings are consistent with the literature from the American Cancer Society *How to Quit Using Tobacco* report[[2]](#_ftn2). We found substantial improvements in COPD and lung cancer risks after two years of quitting despite the "smoke pack" history. Reductions in the first years were strong across both COPD and lung cancer. The more packs per year history, the more opportunity for risk multiplier improvements.
+Our initial findings are consistent with the literature from the American Cancer Society *How to Quit Using Tobacco* report[[2]](#ftn2). We found substantial improvements in COPD and lung cancer risks after two years of quitting despite the "smoke pack" history. Reductions in the first years were strong across both COPD and lung cancer. The more packs per year history, the more opportunity for risk multiplier improvements.
 
 We found smokers who quit had risk multiplier improvements in COPD and lung cancer ranging from 23% to 51% in the first two years of quitting, and up to 83% reduction in the risk multiplier after 20 years. In comparison, the charts and graphs below show a non-smoker has a risk multiplier value of 0.27 for lung cancer and 0.38 for COPD.
 
@@ -58,7 +58,7 @@ Nutraceuticals are the formulation of nutrients directed toward prevention and t
 ![find_nutra](/assets/images/find_nutra.png)
 
 * * * * *
+<a name="ftn1"></a>
+[1] Cleveland Clinic. 2022. "Blood Tests: Types, Results & How They Work." Cleveland Clinic. December 6, 2022. https://my.clevelandclinic.org/health/diagnostics/24508-blood-tests.
 
-[[1]](#_ftnref1) Cleveland Clinic. 2022. "Blood Tests: Types, Results & How They Work." Cleveland Clinic. December 6, 2022. https://my.clevelandclinic.org/health/diagnostics/24508-blood-tests.
-
-[[2]](#_ftnref2) www.cancer.org/content/dam/CRC/PDF/Public/9545.00.pdf
+[2] www.cancer.org/content/dam/CRC/PDF/Public/9545.00.pdf
