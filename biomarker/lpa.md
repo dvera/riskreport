@@ -1,6 +1,6 @@
 ---
 title: "Lipoprotein(a)"
-parent: "Advanced Biomarkers"
+parent: "Lipids"
 grand_parent: "Risk by Biomarker"
 nav_order: 1
 ---
