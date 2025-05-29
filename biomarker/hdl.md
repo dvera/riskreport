@@ -2,13 +2,14 @@
 title: "HDL Cholesterol"
 parent: "Lipid Panel"
 grand_parent: "Risk by Biomarker"
+nav_order: Good cholesterol that helps remove excess cholesterol from blood. High HDL is protective against heart disease.
 ---
 
 
 ## HDL Cholesterol
 
 
-Good cholesterol that helps remove excess cholesterol from blood. High HDL is protective against heart disease.
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

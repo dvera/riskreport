@@ -2,13 +2,14 @@
 title: "Gamma-Glutamyl Transferase (GGT)"
 parent: "Advanced Biomarkers"
 grand_parent: "Risk by Biomarker"
+nav_order: "Enzyme involved in liver function and bile production. High GGT can indicate liver disease, bile duct problems, or alcohol use."
 ---
 
 
 ## Gamma-Glutamyl Transferase (GGT)
 
 
-"Enzyme involved in liver function and bile production. High GGT can indicate liver disease, bile duct problems, or alcohol use."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

@@ -2,13 +2,14 @@
 title: "Smoking History (Pack-Years)"
 parent: "Physical/Vitals"
 grand_parent: "Risk by Biomarker"
+nav_order: "Cumulative measure of cigarette smoking exposure (packs per day × years smoked). Higher values indicate greater risk for lung cancer, COPD, and cardiovascular disease."
 ---
 
 
 ## Smoking History (Pack-Years)
 
 
-"Cumulative measure of cigarette smoking exposure (packs per day × years smoked). Higher values indicate greater risk for lung cancer, COPD, and cardiovascular disease."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

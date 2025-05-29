@@ -2,13 +2,14 @@
 title: "GDF15"
 parent: "Proteins"
 grand_parent: "Risk by Biomarker"
+nav_order: "Growth Differentiation Factor 15, a protein regulating inflammation and cellular stress. Elevated in cancer, heart disease, and metabolic disorders."
 ---
 
 
 ## GDF15
 
 
-"Growth Differentiation Factor 15, a protein regulating inflammation and cellular stress. Elevated in cancer, heart disease, and metabolic disorders."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

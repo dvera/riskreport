@@ -2,13 +2,14 @@
 title: "Monocyte Count"
 parent: "Complete Blood Counts"
 grand_parent: "Risk by Biomarker"
+nav_order: White blood cell type involved in immune defense and inflammation. High counts can indicate infection or chronic inflammation.
 ---
 
 
 ## Monocyte Count
 
 
-White blood cell type involved in immune defense and inflammation. High counts can indicate infection or chronic inflammation.
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

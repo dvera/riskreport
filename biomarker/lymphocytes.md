@@ -2,13 +2,14 @@
 title: "Lymphocyte Count"
 parent: "Complete Blood Counts"
 grand_parent: "Risk by Biomarker"
+nav_order: "Absolute number of lymphocytes in blood, reflecting immune system activity."
 ---
 
 
 ## Lymphocyte Count
 
 
-"Absolute number of lymphocytes in blood, reflecting immune system activity."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

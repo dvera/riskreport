@@ -2,13 +2,14 @@
 title: "Vitamin B Complex Supplement"
 parent: "Nutraceuticals"
 grand_parent: "Risk by Biomarker"
+nav_order: "Contains a mix of B vitamins (B1, B2, B3, B6, B12, etc.), important for energy metabolism, nerve function, and red blood cell formation."
 ---
 
 
 ## Vitamin B Complex Supplement
 
 
-"Contains a mix of B vitamins (B1, B2, B3, B6, B12, etc.), important for energy metabolism, nerve function, and red blood cell formation."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

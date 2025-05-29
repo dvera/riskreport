@@ -2,13 +2,14 @@
 title: "Omega-6 Fatty Acids"
 parent: "Metabolites"
 grand_parent: "Risk by Biomarker"
+nav_order: Essential fats found in vegetable oils and nuts. Important for cell structure and metabolism; excess intake relative to omega-3s may promote inflammation.
 ---
 
 
 ## Omega-6 Fatty Acids
 
 
-Essential fats found in vegetable oils and nuts. Important for cell structure and metabolism; excess intake relative to omega-3s may promote inflammation.
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

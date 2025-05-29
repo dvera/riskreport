@@ -2,13 +2,14 @@
 title: "Cheese Consumption"
 parent: "Lifestyle"
 grand_parent: "Risk by Biomarker"
+nav_order: Frequency of cheese intake. Cheese is rich in protein and calcium but can be high in saturated fat and salt.
 ---
 
 
 ## Cheese Consumption
 
 
-Frequency of cheese intake. Cheese is rich in protein and calcium but can be high in saturated fat and salt.
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

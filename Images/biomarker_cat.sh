@@ -23,7 +23,7 @@ NR > 1 {
 
 #cats=$(cut -f 2 biomarker2.tsv | sort | uniq)
 
-tail -n +2 "$file2" | while IFS=$'\t' read -r cat menu_name desc; do
+tail -n +2 "$file2" | while IFS=$'\t' read -r cat menu_name desc order; do
 
 echo "$cat $menu_name $desc"
 
@@ -31,6 +31,7 @@ echo "---
 title: \"$menu_name\"
 parent: \"Risk by Biomarker\"
 has_children: TRUE
+nav_order: $order
 ---
 
 

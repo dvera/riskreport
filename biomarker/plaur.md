@@ -2,13 +2,14 @@
 title: "PLAUR"
 parent: "Proteins"
 grand_parent: "Risk by Biomarker"
+nav_order: "Plasminogen Activator, Urokinase Receptor, involved in breaking down blood clots and tissue remodeling."
 ---
 
 
 ## PLAUR
 
 
-"Plasminogen Activator, Urokinase Receptor, involved in breaking down blood clots and tissue remodeling."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

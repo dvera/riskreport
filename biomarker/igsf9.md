@@ -2,13 +2,14 @@
 title: "IGSF9"
 parent: "Proteins"
 grand_parent: "Risk by Biomarker"
+nav_order: "Immunoglobulin Superfamily Member 9, involved in cell-cell interactions, especially in the nervous system."
 ---
 
 
 ## IGSF9
 
 
-"Immunoglobulin Superfamily Member 9, involved in cell-cell interactions, especially in the nervous system."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

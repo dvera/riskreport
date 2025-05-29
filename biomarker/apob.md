@@ -2,13 +2,14 @@
 title: "Apolipoprotein B (ApoB)"
 parent: "Lipid Panel"
 grand_parent: "Risk by Biomarker"
+nav_order: "Main protein of LDL cholesterol particles. High ApoB means more LDL particles, increasing risk for atherosclerosis and heart disease."
 ---
 
 
 ## Apolipoprotein B (ApoB)
 
 
-"Main protein of LDL cholesterol particles. High ApoB means more LDL particles, increasing risk for atherosclerosis and heart disease."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

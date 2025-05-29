@@ -2,13 +2,14 @@
 title: "Branched-Chain Amino Acids (BCAAs)"
 parent: "Metabolites"
 grand_parent: "Risk by Biomarker"
+nav_order: "Essential amino acids (leucine, isoleucine, valine) important for muscle metabolism. Elevated BCAAs are linked to insulin resistance and metabolic disorders."
 ---
 
 
 ## Branched-Chain Amino Acids (BCAAs)
 
 
-"Essential amino acids (leucine, isoleucine, valine) important for muscle metabolism. Elevated BCAAs are linked to insulin resistance and metabolic disorders."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

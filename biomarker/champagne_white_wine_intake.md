@@ -2,13 +2,14 @@
 title: "Champagne/White Wine Consumption"
 parent: "Lifestyle"
 grand_parent: "Risk by Biomarker"
+nav_order: Self-reported intake of champagne or white wine. Moderate consumption may have some heart benefits; excess increases risk for liver disease and cancer.
 ---
 
 
 ## Champagne/White Wine Consumption
 
 
-Self-reported intake of champagne or white wine. Moderate consumption may have some heart benefits; excess increases risk for liver disease and cancer.
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

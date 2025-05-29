@@ -2,13 +2,14 @@
 title: "Hand Grip Strength"
 parent: "Physical/Vitals"
 grand_parent: "Risk by Biomarker"
+nav_order: "Assesses muscular strength using a hand dynamometer. Lower grip strength is linked to higher risk of disability, frailty, and mortality."
 ---
 
 
 ## Hand Grip Strength
 
 
-"Assesses muscular strength using a hand dynamometer. Lower grip strength is linked to higher risk of disability, frailty, and mortality."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

@@ -2,13 +2,14 @@
 title: "Testosterone"
 parent: "Advanced Biomarkers"
 grand_parent: "Risk by Biomarker"
+nav_order: "Main male sex hormone, important for muscle mass, bone density, and reproductive health. Abnormal levels affect mood, energy, and sexual function."
 ---
 
 
 ## Testosterone
 
 
-"Main male sex hormone, important for muscle mass, bone density, and reproductive health. Abnormal levels affect mood, energy, and sexual function."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

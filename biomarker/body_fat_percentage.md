@@ -2,13 +2,14 @@
 title: "Body Fat Percentage"
 parent: "Physical/Vitals"
 grand_parent: "Risk by Biomarker"
+nav_order: "Proportion of body weight that is fat tissue. High body fat increases risk for metabolic syndrome, diabetes, and cardiovascular disease."
 ---
 
 
 ## Body Fat Percentage
 
 
-"Proportion of body weight that is fat tissue. High body fat increases risk for metabolic syndrome, diabetes, and cardiovascular disease."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

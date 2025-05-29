@@ -2,13 +2,14 @@
 title: "C-Reactive Protein (CRP)"
 parent: "Advanced Biomarkers"
 grand_parent: "Risk by Biomarker"
+nav_order: Protein produced by the liver in response to inflammation. High CRP signals acute or chronic inflammation and is a risk marker for heart disease.
 ---
 
 
 ## C-Reactive Protein (CRP)
 
 
-Protein produced by the liver in response to inflammation. High CRP signals acute or chronic inflammation and is a risk marker for heart disease.
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

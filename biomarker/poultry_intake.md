@@ -2,13 +2,14 @@
 title: "Poultry Consumption"
 parent: "Lifestyle"
 grand_parent: "Risk by Biomarker"
+nav_order: Self-reported frequency of eating chicken or turkey. Poultry is a source of lean protein and other nutrients.
 ---
 
 
 ## Poultry Consumption
 
 
-Self-reported frequency of eating chicken or turkey. Poultry is a source of lean protein and other nutrients.
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

@@ -2,13 +2,14 @@
 title: "Folic Acid Supplement"
 parent: "Nutraceuticals"
 grand_parent: "Risk by Biomarker"
+nav_order: "Provides vitamin B9, essential for DNA synthesis and cell division. Important in pregnancy to prevent birth defects; supports heart health."
 ---
 
 
 ## Folic Acid Supplement
 
 
-"Provides vitamin B9, essential for DNA synthesis and cell division. Important in pregnancy to prevent birth defects; supports heart health."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

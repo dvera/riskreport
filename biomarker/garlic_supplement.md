@@ -2,13 +2,14 @@
 title: "Garlic Supplement"
 parent: "Nutraceuticals"
 grand_parent: "Risk by Biomarker"
+nav_order: "Contains compounds like allicin. Used for cardiovascular health, blood pressure control, and immune support. May have mild cholesterol-lowering effects."
 ---
 
 
 ## Garlic Supplement
 
 
-"Contains compounds like allicin. Used for cardiovascular health, blood pressure control, and immune support. May have mild cholesterol-lowering effects."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

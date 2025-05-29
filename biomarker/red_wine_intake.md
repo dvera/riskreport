@@ -2,13 +2,14 @@
 title: "Red Wine Consumption"
 parent: "Lifestyle"
 grand_parent: "Risk by Biomarker"
+nav_order: Frequency of drinking red wine. Moderate intake may have heart benefits; excess increases risk for liver disease and cancer.
 ---
 
 
 ## Red Wine Consumption
 
 
-Frequency of drinking red wine. Moderate intake may have heart benefits; excess increases risk for liver disease and cancer.
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

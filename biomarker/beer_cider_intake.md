@@ -2,13 +2,14 @@
 title: "Beer/Cider Consumption"
 parent: "Lifestyle"
 grand_parent: "Risk by Biomarker"
+nav_order: "Self-reported frequency of drinking beer or cider. Alcohol intake affects liver, heart, and cancer risk."
 ---
 
 
 ## Beer/Cider Consumption
 
 
-"Self-reported frequency of drinking beer or cider. Alcohol intake affects liver, heart, and cancer risk."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

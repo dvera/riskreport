@@ -32,11 +32,14 @@ Biomarkers offer insights into your health, including early detection of disease
 
 A risk multiplier represents the association between biomarker values and future incidence of a disease. The biomarker range associated with the lowest incidence is assigned a risk multiplier of 1.  After that, if for example a biomarker range has a 40% increase in incidence, it would have a value of 1.4. All risk multiplier values are separated by gender and represent relative incidence of the disease compared to others your age.
 
-![](file:////Users/dvera/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)\
+![riskmultiplier](/assets/images/riskmultiplier.png)\
 
 ## What is a VMR value?
 
 Reference ranges typically provided with blood test results are population based. In contrast, the Voloridge™ Modeled Range™ or VMR™ is the range of a single biomarker's values associated with the lowest future incidence of diseases. Because there are multiple disease groups, the VMRs are based on a weighted average incidence of the major disease groups addressed in this guide. Because the VMRs are calculated directly by Voloridge Health's models based on a specific data set, and not designed to be medical recommendations, these values may differ from what you see as reference ranges with a blood test result.
+
+
+
 
 ## What makes Voloridge Health different?
 
@@ -46,7 +49,8 @@ Many traditional models focus on an individual predictor and its relationship to
 
 Another way Voloridge Health evaluates how biomarkers can predict health is with a predictive strength value. This metric demonstrates how strongly each biomarker correlates with a specific disease. In the *VMR Values by Disease* section of this guide, the biomarkers are colored with a gradient as illustrated in the graphic below. White represents a lower strength, while green represents a higher strength.
 
-![A green and black rectangle Description automatically generated](file:////Users/dvera/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)
+![riskmultiplier](/assets/images/pstrength.png)\
+
 
 Additionally, you can find all biomarkers and their predictive strength values in the *Predictive Strength Values*  section. We scale predictive strength from zero (no predictive strength) to 10, the highest predictive strength. A value of 7 would have 70% of the predictive strength of a value of 10.
 
@@ -54,21 +58,6 @@ Additionally, you can find all biomarkers and their predictive strength values i
 
 Some diseases are defined by comparing specific biomarker levels to established thresholds. For example, type 2 diabetes is typically diagnosed if Hemoglobin A1C levels are at or above 6.5 percent.[^[3]^](#_ftn3)In this case, a risk multiplier is no longer meaningful, given the likelihood someone is diagnosed with such a disease is nearly 100 percent if their biomarker value passes that threshold. However, for the purpose of this guide, values are provided for such biomarkers regardless of these definitions, to maintain consistency and show data trends.
 
-## Contributors
-
-### Primary Authors
-
-David S. Vogel, David Hijirida, Monica Vogel, Shannon Maganiezin, Randy Axelrod, M.D., Chris Schnyer, Stephanie Duesing, Andrea Garcia, Aaron Liu, Barry Miller, Jason Kras, Daniel Luis Vera Ph.D. M.B.A.
-
-### Contributions
-
-Conceptualization: DV; Data Analysis: DV, JK.; Writing: MV, SM;
-
-Review & Editing: RA, BM, MK, SD, SM, DLV, CS, DH, AG
-
-### Acknowledgements
-
-We sincerely thank Dr. Eric Topol, Dr. Tommy Wood, Dr. Richard Faro, Dr. Danine Fruge, and Caroline Lewis for their valuable feedback and insightful comments.
 
 ## Disclaimer
 

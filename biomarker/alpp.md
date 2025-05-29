@@ -2,13 +2,14 @@
 title: "ALPP"
 parent: "Proteins"
 grand_parent: "Risk by Biomarker"
+nav_order: "Placental-type alkaline phosphatase, a protein mainly produced in the placenta. Outside pregnancy, elevated levels may be seen in some cancers."
 ---
 
 
 ## ALPP
 
 
-"Placental-type alkaline phosphatase, a protein mainly produced in the placenta. Outside pregnancy, elevated levels may be seen in some cancers."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

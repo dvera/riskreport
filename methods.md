@@ -1,5 +1,12 @@
 # Methods
 
+---
+layout: default
+title: "Methods"
+nav_order: 10
+has_children: FALSE
+---
+
 ## Strength
 
 The prediction strength metric is calculated by applying a non-linear (spline) correlation of each biomarker against a gender and age normalized dependent variable for each disease. The result of the normalization is a dependent variable with the form of a "risk multiplier" averaging a value of 1.0 for every age and gender combination. This is achieved by generating a set of weights using a bivariate tensor product spline fitting the relationship between age and each disease outcome for each gender. For each biomarker, we take the absolute value of the correlation, then average across men and women to create a gender-neutral metric. Next the value is divided by the maximum strength across all biomarkers, and then multiplied by 10, resulting in the final value for the metric where the strength is normalized for each individual disease outcome. The final presentation of the prediction strength metric is the result of sorting the individual biomarker averaged values, in descending order, and removing biomarkers redundant in the analysis based on similarity to others (e.g., ApoA, weight, Glucose, Cholesterol). 

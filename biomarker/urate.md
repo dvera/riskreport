@@ -2,13 +2,14 @@
 title: "Uric Acid (Urate)"
 parent: "Advanced Biomarkers"
 grand_parent: "Risk by Biomarker"
+nav_order: Waste product from breakdown of purines in food. High levels can cause gout and kidney stones.
 ---
 
 
 ## Uric Acid (Urate)
 
 
-Waste product from breakdown of purines in food. High levels can cause gout and kidney stones.
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

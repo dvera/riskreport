@@ -2,13 +2,14 @@
 title: "Hemoglobin A1c (HbA1c)"
 parent: "Comprehensive Metabolic Panel"
 grand_parent: "Risk by Biomarker"
+nav_order: Reflects average blood glucose over 2–3 months. Used to diagnose and monitor diabetes.
 ---
 
 
 ## Hemoglobin A1c (HbA1c)
 
 
-Reflects average blood glucose over 2–3 months. Used to diagnose and monitor diabetes.
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

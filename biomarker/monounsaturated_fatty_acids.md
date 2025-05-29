@@ -2,13 +2,14 @@
 title: "Monounsaturated Fatty Acids"
 parent: "Metabolites"
 grand_parent: "Risk by Biomarker"
+nav_order: "Healthy fats found in olive oil, nuts, and avocados. Support heart health by improving cholesterol and reducing inflammation."
 ---
 
 
 ## Monounsaturated Fatty Acids
 
 
-"Healthy fats found in olive oil, nuts, and avocados. Support heart health by improving cholesterol and reducing inflammation."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Findings"
-nav_order: 9
+nav_order: 7
 ---
 
 # Our Findings

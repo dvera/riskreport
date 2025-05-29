@@ -2,13 +2,14 @@
 title: "NEFL"
 parent: "Proteins"
 grand_parent: "Risk by Biomarker"
+nav_order: "Neurofilament Light Chain, a protein in nerve cells. Marker for nerve damage or neurodegenerative disease."
 ---
 
 
 ## NEFL
 
 
-"Neurofilament Light Chain, a protein in nerve cells. Marker for nerve damage or neurodegenerative disease."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

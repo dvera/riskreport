@@ -5,7 +5,7 @@ file="biomarker2.tsv"
 
 
 
-tail -n +2 "$file" | while IFS=$'\t' read -r id cat menu_name desc; do
+tail -n +2 "$file" | while IFS=$'\t' read -r id cat menu_name order desc; do
 
 cat_name=$(awk -F $'\t' -v key="$cat" '$1 == key { print $2 }' biomarker_cat.tsv)
 
@@ -16,6 +16,7 @@ echo "---
 title: \"$menu_name\"
 parent: \"$cat_name\"
 grand_parent: \"Risk by Biomarker\"
+nav_order: $order
 ---
 
 

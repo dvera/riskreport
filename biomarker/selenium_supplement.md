@@ -2,13 +2,14 @@
 title: "Selenium Supplement"
 parent: "Nutraceuticals"
 grand_parent: "Risk by Biomarker"
+nav_order: "Provides selenium, a trace mineral important for antioxidant defense, thyroid function, and immune health."
 ---
 
 
 ## Selenium Supplement
 
 
-"Provides selenium, a trace mineral important for antioxidant defense, thyroid function, and immune health."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

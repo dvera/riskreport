@@ -2,13 +2,14 @@
 title: "CXCL17"
 parent: "Proteins"
 grand_parent: "Risk by Biomarker"
+nav_order: Chemokine protein involved in immune cell recruitment and mucosal immunity. Its precise disease role is under study.
 ---
 
 
 ## CXCL17
 
 
-Chemokine protein involved in immune cell recruitment and mucosal immunity. Its precise disease role is under study.
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

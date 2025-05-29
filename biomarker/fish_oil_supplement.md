@@ -2,13 +2,14 @@
 title: "Fish Oil (Omega-3) Supplement"
 parent: "Nutraceuticals"
 grand_parent: "Risk by Biomarker"
+nav_order: "Provides omega-3 fatty acids (EPA, DHA) for heart, brain, and eye health. May reduce triglycerides and inflammation."
 ---
 
 
 ## Fish Oil (Omega-3) Supplement
 
 
-"Provides omega-3 fatty acids (EPA, DHA) for heart, brain, and eye health. May reduce triglycerides and inflammation."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

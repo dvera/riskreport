@@ -2,13 +2,14 @@
 title: "Urea"
 parent: "Advanced Biomarkers"
 grand_parent: "Risk by Biomarker"
+nav_order: "Waste product formed from protein breakdown, filtered by kidneys. High levels can indicate kidney dysfunction."
 ---
 
 
 ## Urea
 
 
-"Waste product formed from protein breakdown, filtered by kidneys. High levels can indicate kidney dysfunction."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

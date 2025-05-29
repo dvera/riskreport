@@ -2,13 +2,14 @@
 title: "Spirits Consumption"
 parent: "Lifestyle"
 grand_parent: "Risk by Biomarker"
+nav_order: "Intake of distilled alcoholic beverages (vodka, gin, whiskey, etc.). High consumption increases risk for liver disease, cancer, and other health problems."
 ---
 
 
 ## Spirits Consumption
 
 
-"Intake of distilled alcoholic beverages (vodka, gin, whiskey, etc.). High consumption increases risk for liver disease, cancer, and other health problems."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

@@ -2,13 +2,14 @@
 title: "Iron Supplement"
 parent: "Nutraceuticals"
 grand_parent: "Risk by Biomarker"
+nav_order: "Provides iron, necessary for making hemoglobin and supporting oxygen transport in blood. Used to treat or prevent iron-deficiency anemia."
 ---
 
 
 ## Iron Supplement
 
 
-"Provides iron, necessary for making hemoglobin and supporting oxygen transport in blood. Used to treat or prevent iron-deficiency anemia."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

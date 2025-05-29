@@ -2,13 +2,14 @@
 title: "Leucine"
 parent: "Metabolites"
 grand_parent: "Risk by Biomarker"
+nav_order: "Essential branched-chain amino acid important for protein synthesis, muscle repair, and energy production."
 ---
 
 
 ## Leucine
 
 
-"Essential branched-chain amino acid important for protein synthesis, muscle repair, and energy production."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

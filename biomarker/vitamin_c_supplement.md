@@ -2,13 +2,14 @@
 title: "Vitamin C Supplement"
 parent: "Nutraceuticals"
 grand_parent: "Risk by Biomarker"
+nav_order: "Provides vitamin C, an antioxidant important for immune health, collagen formation, and iron absorption."
 ---
 
 
 ## Vitamin C Supplement
 
 
-"Provides vitamin C, an antioxidant important for immune health, collagen formation, and iron absorption."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

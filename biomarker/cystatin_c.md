@@ -2,13 +2,14 @@
 title: "Cystatin C"
 parent: "Advanced Biomarkers"
 grand_parent: "Risk by Biomarker"
+nav_order: "Protein produced by all nucleated cells, filtered by kidneys. Sensitive marker of kidney function, often more reliable than creatinine."
 ---
 
 
 ## Cystatin C
 
 
-"Protein produced by all nucleated cells, filtered by kidneys. Sensitive marker of kidney function, often more reliable than creatinine."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

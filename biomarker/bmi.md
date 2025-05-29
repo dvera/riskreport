@@ -2,13 +2,14 @@
 title: "Body Mass Index (BMI)"
 parent: "Physical/Vitals"
 grand_parent: "Risk by Biomarker"
+nav_order: "Weight-to-height ratio (kg/m²). Used to classify underweight, normal weight, overweight, or obesity. High BMI is linked to diabetes, heart disease, and some cancers."
 ---
 
 
 ## Body Mass Index (BMI)
 
 
-"Weight-to-height ratio (kg/m²). Used to classify underweight, normal weight, overweight, or obesity. High BMI is linked to diabetes, heart disease, and some cancers."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

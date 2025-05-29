@@ -2,13 +2,14 @@
 title: "Hemoglobin"
 parent: "Complete Blood Counts"
 grand_parent: "Risk by Biomarker"
+nav_order: Protein in red blood cells that carries oxygen. Low hemoglobin indicates anemia; high levels may occur in certain diseases.
 ---
 
 
 ## Hemoglobin
 
 
-Protein in red blood cells that carries oxygen. Low hemoglobin indicates anemia; high levels may occur in certain diseases.
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

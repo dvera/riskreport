@@ -2,13 +2,14 @@
 title: "Vitamin D Level"
 parent: "Advanced Biomarkers"
 grand_parent: "Risk by Biomarker"
+nav_order: "Fat-soluble vitamin produced in skin with sun exposure and obtained from diet. Essential for bone health, immune function, and reducing risk of chronic diseases."
 ---
 
 
 ## Vitamin D Level
 
 
-"Fat-soluble vitamin produced in skin with sun exposure and obtained from diet. Essential for bone health, immune function, and reducing risk of chronic diseases."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

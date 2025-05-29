@@ -2,13 +2,14 @@
 title: "Beef Consumption"
 parent: "Lifestyle"
 grand_parent: "Risk by Biomarker"
+nav_order: Self-reported frequency of eating beef. High intake is associated with increased risk of heart disease and certain cancers.
 ---
 
 
 ## Beef Consumption
 
 
-Self-reported frequency of eating beef. High intake is associated with increased risk of heart disease and certain cancers.
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

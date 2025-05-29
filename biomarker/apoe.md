@@ -2,13 +2,14 @@
 title: "APOE"
 parent: "Proteins"
 grand_parent: "Risk by Biomarker"
+nav_order: "Apolipoprotein E, a protein involved in cholesterol transport and metabolism. Certain genetic variants increase risk for Alzheimer's and cardiovascular disease."
 ---
 
 
 ## APOE
 
 
-"Apolipoprotein E, a protein involved in cholesterol transport and metabolism. Certain genetic variants increase risk for Alzheimer's and cardiovascular disease."
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

@@ -2,13 +2,14 @@
 title: "Phenylalanine"
 parent: "Metabolites"
 grand_parent: "Risk by Biomarker"
+nav_order: Essential amino acid needed for protein synthesis and neurotransmitter production. High levels can be harmful in phenylketonuria (PKU).
 ---
 
 
 ## Phenylalanine
 
 
-Essential amino acid needed for protein synthesis and neurotransmitter production. High levels can be harmful in phenylketonuria (PKU).
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

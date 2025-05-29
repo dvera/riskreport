@@ -2,13 +2,14 @@
 title: "Red Blood Cell Count"
 parent: "Complete Blood Counts"
 grand_parent: "Risk by Biomarker"
+nav_order: Number of red blood cells in blood. Low RBC can indicate anemia; high levels may occur in dehydration or certain diseases.
 ---
 
 
 ## Red Blood Cell Count
 
 
-Number of red blood cells in blood. Low RBC can indicate anemia; high levels may occur in dehydration or certain diseases.
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

@@ -2,13 +2,14 @@
 title: "Triglycerides"
 parent: "Lipid Panel"
 grand_parent: "Risk by Biomarker"
+nav_order: Main form of fat in the blood. High levels are linked to increased risk of heart disease and pancreatitis.
 ---
 
 
 ## Triglycerides
 
 
-Main form of fat in the blood. High levels are linked to increased risk of heart disease and pancreatitis.
+
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
