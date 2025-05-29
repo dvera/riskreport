@@ -2,14 +2,14 @@
 title: "Total Fatty Acids"
 parent: "Metabolites"
 grand_parent: "Risk by Biomarker"
-nav_order: "Sum of all fatty acids in the blood, reflecting dietary fat intake and metabolism."
+nav_order: 1
 ---
 
 
 ## Total Fatty Acids
 
 
-
+"Sum of all fatty acids in the blood, reflecting dietary fat intake and metabolism."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

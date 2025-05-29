@@ -2,14 +2,14 @@
 title: "Vitamin D Supplement"
 parent: "Nutraceuticals"
 grand_parent: "Risk by Biomarker"
-nav_order: "Supplement form of vitamin D, used to maintain healthy bones and immune system, especially in people with low sun exposure or absorption issues."
+nav_order: 1
 ---
 
 
 ## Vitamin D Supplement
 
 
-
+"Supplement form of vitamin D, used to maintain healthy bones and immune system, especially in people with low sun exposure or absorption issues."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

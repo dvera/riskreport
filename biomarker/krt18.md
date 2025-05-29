@@ -2,14 +2,14 @@
 title: "KRT18"
 parent: "Proteins"
 grand_parent: "Risk by Biomarker"
-nav_order: "Keratin 18, a structural protein in epithelial cells. Marker of cell death in liver disease and some cancers."
+nav_order: 1
 ---
 
 
 ## KRT18
 
 
-
+"Keratin 18, a structural protein in epithelial cells. Marker of cell death in liver disease and some cancers."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

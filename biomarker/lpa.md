@@ -2,14 +2,14 @@
 title: "Lipoprotein(a)"
 parent: "Advanced Biomarkers"
 grand_parent: "Risk by Biomarker"
-nav_order: Lipoprotein particle similar to LDL with an added protein. High levels are a genetic risk factor for cardiovascular disease.
+nav_order: 1
 ---
 
 
 ## Lipoprotein(a)
 
 
-
+Lipoprotein particle similar to LDL with an added protein. High levels are a genetic risk factor for cardiovascular disease.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

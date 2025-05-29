@@ -2,14 +2,14 @@
 title: "Sex Hormone-Binding Globulin (SHBG)"
 parent: "Advanced Biomarkers"
 grand_parent: "Risk by Biomarker"
-nav_order: "Protein that binds sex hormones (testosterone, estrogen) in blood, regulating their availability to tissues."
+nav_order: 1
 ---
 
 
 ## Sex Hormone-Binding Globulin (SHBG)
 
 
-
+"Protein that binds sex hormones (testosterone, estrogen) in blood, regulating their availability to tissues."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

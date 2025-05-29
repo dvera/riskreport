@@ -2,14 +2,14 @@
 title: "EDA2R"
 parent: "Proteins"
 grand_parent: "Risk by Biomarker"
-nav_order: "Ectodysplasin A2 receptor, a protein involved in cell signaling and development."
+nav_order: 1
 ---
 
 
 ## EDA2R
 
 
-
+"Ectodysplasin A2 receptor, a protein involved in cell signaling and development."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

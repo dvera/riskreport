@@ -2,14 +2,14 @@
 title: "General Vitamin Supplement"
 parent: "Nutraceuticals"
 grand_parent: "Risk by Biomarker"
-nav_order: Supplement providing a mix of essential vitamins for overall health and to prevent deficiencies.
+nav_order: 1
 ---
 
 
 ## General Vitamin Supplement
 
 
-
+Supplement providing a mix of essential vitamins for overall health and to prevent deficiencies.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

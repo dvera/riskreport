@@ -1,15 +1,15 @@
 ---
 title: "Creatinine"
-parent: "Metabolites"
+parent: "Metabolic Panel"
 grand_parent: "Risk by Biomarker"
-nav_order: "Waste product from muscle metabolism, filtered by kidneys. Blood levels assess kidney function; high levels may indicate kidney dysfunction."
+nav_order: 1
 ---
 
 
 ## Creatinine
 
 
-
+"Waste product from muscle metabolism, filtered by kidneys. Blood levels assess kidney function; high levels may indicate kidney dysfunction."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

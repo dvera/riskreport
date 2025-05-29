@@ -2,14 +2,14 @@
 title: "Waist Circumference"
 parent: "Physical/Vitals"
 grand_parent: "Risk by Biomarker"
-nav_order: "Measurement around the abdomen. High values indicate abdominal obesity, a strong risk factor for metabolic syndrome, diabetes, and heart disease."
+nav_order: 5
 ---
 
 
 ## Waist Circumference
 
 
-
+"Measurement around the abdomen. High values indicate abdominal obesity, a strong risk factor for metabolic syndrome, diabetes, and heart disease."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

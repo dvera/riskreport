@@ -2,14 +2,14 @@
 title: "Glucosamine Supplement"
 parent: "Nutraceuticals"
 grand_parent: "Risk by Biomarker"
-nav_order: Supports joint health and may reduce osteoarthritis symptoms. Involved in cartilage formation and repair.
+nav_order: 1
 ---
 
 
 ## Glucosamine Supplement
 
 
-
+Supports joint health and may reduce osteoarthritis symptoms. Involved in cartilage formation and repair.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

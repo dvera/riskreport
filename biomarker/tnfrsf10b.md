@@ -2,14 +2,14 @@
 title: "TNFRSF10B"
 parent: "Proteins"
 grand_parent: "Risk by Biomarker"
-nav_order: "Tumor Necrosis Factor Receptor Superfamily Member 10B, a protein involved in cell death signaling."
+nav_order: 1
 ---
 
 
 ## TNFRSF10B
 
 
-
+"Tumor Necrosis Factor Receptor Superfamily Member 10B, a protein involved in cell death signaling."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

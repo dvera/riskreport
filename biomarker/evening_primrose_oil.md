@@ -2,14 +2,14 @@
 title: "Evening Primrose Oil"
 parent: "Nutraceuticals"
 grand_parent: "Risk by Biomarker"
-nav_order: "Supplement containing gamma-linolenic acid (GLA), an omega-6 fatty acid. Used for skin health, PMS, and inflammation, though evidence is mixed."
+nav_order: 1
 ---
 
 
 ## Evening Primrose Oil
 
 
-
+"Supplement containing gamma-linolenic acid (GLA), an omega-6 fatty acid. Used for skin health, PMS, and inflammation, though evidence is mixed."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

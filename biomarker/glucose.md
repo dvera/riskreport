@@ -2,14 +2,14 @@
 title: "Blood Glucose"
 parent: "Metabolic Panel"
 grand_parent: "Risk by Biomarker"
-nav_order: "Measures blood sugar level. Used to diagnose and monitor diabetes. Regulated by insulin, produced/processed by pancreas and liver."
+nav_order: 1
 ---
 
 
 ## Blood Glucose
 
 
-
+"Measures blood sugar level. Used to diagnose and monitor diabetes. Regulated by insulin, produced/processed by pancreas and liver."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

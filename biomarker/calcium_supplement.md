@@ -2,14 +2,14 @@
 title: "Calcium Supplement"
 parent: "Nutraceuticals"
 grand_parent: "Risk by Biomarker"
-nav_order: "Provides calcium, essential for bone health, muscle contraction, and nerve function. Used to prevent osteoporosis and support bone strength."
+nav_order: 1
 ---
 
 
 ## Calcium Supplement
 
 
-
+"Provides calcium, essential for bone health, muscle contraction, and nerve function. Used to prevent osteoporosis and support bone strength."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

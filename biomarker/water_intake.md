@@ -2,14 +2,14 @@
 title: "Water Intake"
 parent: "Lifestyle"
 grand_parent: "Risk by Biomarker"
-nav_order: "Self-reported amount of water consumed daily. Adequate hydration is essential for all bodily functions, including temperature regulation, kidney health, and cognitive performance."
+nav_order: 1
 ---
 
 
 ## Water Intake
 
 
-
+"Self-reported amount of water consumed daily. Adequate hydration is essential for all bodily functions, including temperature regulation, kidney health, and cognitive performance."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

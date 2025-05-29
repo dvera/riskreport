@@ -2,14 +2,14 @@
 title: "Lymphocyte Percentage"
 parent: "CBC (Complete Blood Counts)"
 grand_parent: "Risk by Biomarker"
-nav_order: "Proportion of white blood cells that are lymphocytes, key to immune defense. Abnormal values may indicate infection, immune disorders, or blood cancers."
+nav_order: 4
 ---
 
 
 ## Lymphocyte Percentage
 
 
-
+"Proportion of white blood cells that are lymphocytes, key to immune defense. Abnormal values may indicate infection, immune disorders, or blood cancers."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

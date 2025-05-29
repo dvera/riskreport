@@ -2,14 +2,14 @@
 title: "Glutamine"
 parent: "Metabolites"
 grand_parent: "Risk by Biomarker"
-nav_order: "Amino acid important for immune function, gut health, and muscle recovery. Used as a supplement in clinical and athletic settings."
+nav_order: 1
 ---
 
 
 ## Glutamine
 
 
-
+"Amino acid important for immune function, gut health, and muscle recovery. Used as a supplement in clinical and athletic settings."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

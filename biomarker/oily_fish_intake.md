@@ -2,14 +2,14 @@
 title: "Oily Fish Consumption"
 parent: "Nutraceuticals"
 grand_parent: "Risk by Biomarker"
-nav_order: "Frequency of eating fatty fish like salmon, mackerel, or sardines. Rich in omega-3s, supporting heart and brain health."
+nav_order: 1
 ---
 
 
 ## Oily Fish Consumption
 
 
-
+"Frequency of eating fatty fish like salmon, mackerel, or sardines. Rich in omega-3s, supporting heart and brain health."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

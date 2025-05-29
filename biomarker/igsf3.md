@@ -2,14 +2,14 @@
 title: "IGSF3"
 parent: "Proteins"
 grand_parent: "Risk by Biomarker"
-nav_order: "Immunoglobulin Superfamily Member 3, involved in cell adhesion and immune response."
+nav_order: 1
 ---
 
 
 ## IGSF3
 
 
-
+"Immunoglobulin Superfamily Member 3, involved in cell adhesion and immune response."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

@@ -2,14 +2,14 @@
 title: "Alkaline Phosphatase (ALP)"
 parent: "Metabolic Panel"
 grand_parent: "Risk by Biomarker"
-nav_order: "Enzyme found in liver, bile ducts, and bone. Elevated ALP can signal liver or bone disease; low levels are less common but may occur in rare genetic disorders."
+nav_order: 1
 ---
 
 
 ## Alkaline Phosphatase (ALP)
 
 
-
+"Enzyme found in liver, bile ducts, and bone. Elevated ALP can signal liver or bone disease; low levels are less common but may occur in rare genetic disorders."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

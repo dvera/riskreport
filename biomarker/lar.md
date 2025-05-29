@@ -2,14 +2,14 @@
 title: "LDL-to-ApoB Ratio"
 parent: "Lipids"
 grand_parent: "Risk by Biomarker"
-nav_order: Ratio of LDL cholesterol to apolipoprotein B. Helps assess number and size of LDL particles for cardiovascular risk.
+nav_order: 5
 ---
 
 
 ## LDL-to-ApoB Ratio
 
 
-
+Ratio of LDL cholesterol to apolipoprotein B. Helps assess number and size of LDL particles for cardiovascular risk.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

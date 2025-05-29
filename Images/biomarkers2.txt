@@ -1,0 +1,97 @@
+id	cat	menu_name	order	desc
+crp	adv	C-Reactive Protein (CRP)	1	Protein produced by the liver in response to inflammation. High CRP signals acute or chronic inflammation and is a risk marker for heart disease.
+cystatin_C	adv	Cystatin C	1	"Protein produced by all nucleated cells, filtered by kidneys. Sensitive marker of kidney function, often more reliable than creatinine."
+ggt	adv	Gamma-Glutamyl Transferase (GGT)	1	"Enzyme involved in liver function and bile production. High GGT can indicate liver disease, bile duct problems, or alcohol use."
+lpa	adv	Lipoprotein(a)	1	Lipoprotein particle similar to LDL with an added protein. High levels are a genetic risk factor for cardiovascular disease.
+shbg	adv	Sex Hormone-Binding Globulin (SHBG)	1	"Protein that binds sex hormones (testosterone, estrogen) in blood, regulating their availability to tissues."
+testosterone	adv	Testosterone	1	"Main male sex hormone, important for muscle mass, bone density, and reproductive health. Abnormal levels affect mood, energy, and sexual function."
+vitamin_d	adv	Vitamin D Level	1	"Fat-soluble vitamin produced in skin with sun exposure and obtained from diet. Essential for bone health, immune function, and reducing risk of chronic diseases."
+Smoke_Pack_Yrs	basic	Smoking History (Pack-Years)	1	"Cumulative measure of cigarette smoking exposure (packs per day × years smoked). Higher values indicate greater risk for lung cancer, COPD, and cardiovascular disease."
+bmi	basic	Body Mass Index (BMI)	2	"Weight-to-height ratio (kg/m²). Used to classify underweight, normal weight, overweight, or obesity. High BMI is linked to diabetes, heart disease, and some cancers."
+body_fat_percentage	basic	Body Fat Percentage	6	"Proportion of body weight that is fat tissue. High body fat increases risk for metabolic syndrome, diabetes, and cardiovascular disease."
+grip_strength	basic	Hand Grip Strength	7	"Assesses muscular strength using a hand dynamometer. Lower grip strength is linked to higher risk of disability, frailty, and mortality."
+resting_heartrate	basic	Resting Heart Rate	4	Number of heartbeats per minute at rest. Lower rates generally indicate better cardiovascular fitness.
+systolic_blood_pressure	basic	Systolic Blood Pressure	3	"Top number in a blood pressure reading, representing pressure in arteries when the heart beats. High levels are a major risk factor for heart disease and stroke."
+waist_circumference	basic	Waist Circumference	5	"Measurement around the abdomen. High values indicate abdominal obesity, a strong risk factor for metabolic syndrome, diabetes, and heart disease."
+MCV	cbc	Mean Corpuscular Volume (MCV)	6	"Measures the average size of red blood cells. Used to classify types of anemia and assess bone marrow function. Abnormal values can indicate vitamin B12/folate deficiency, iron deficiency, or chronic disease."
+eosinophils	cbc	Eosinophil Count	3	"Type of white blood cell involved in allergic reactions and fighting parasites. High counts may indicate allergies, asthma, or parasitic infection."
+hematocrit	cbc	Hematocrit	5	Percentage of blood volume made up by red blood cells. Low values suggest anemia; high values may indicate dehydration or polycythemia.
+hemoglobin	cbc	Hemoglobin	5	Protein in red blood cells that carries oxygen. Low hemoglobin indicates anemia; high levels may occur in certain diseases.
+lymphocyte_percentage	cbc	Lymphocyte Percentage	4	"Proportion of white blood cells that are lymphocytes, key to immune defense. Abnormal values may indicate infection, immune disorders, or blood cancers."
+lymphocytes	cbc	Lymphocyte Count	3	"Absolute number of lymphocytes in blood, reflecting immune system activity."
+monocytes	cbc	Monocyte Count	3	White blood cell type involved in immune defense and inflammation. High counts can indicate infection or chronic inflammation.
+neutrophils	cbc	Neutrophil Count	3	"Most abundant white blood cell type, crucial for fighting bacterial infections. High counts suggest infection or inflammation."
+rbc	cbc	Red Blood Cell Count	2	Number of red blood cells in blood. Low RBC can indicate anemia; high levels may occur in dehydration or certain diseases.
+rdw	cbc	Red Cell Distribution Width (RDW)	6	Measures variation in red blood cell size. High RDW can indicate mixed types of anemia or other blood disorders.
+wbc	cbc	White Blood Cell Count	1	"Total number of white blood cells in blood, reflecting immune system activity and response to infection or inflammation."
+urate	cmp	Uric Acid (Urate)	1	Waste product from breakdown of purines in food. High levels can cause gout and kidney stones.
+urea	cmp	Urea	1	"Waste product formed from protein breakdown, filtered by kidneys. High levels can indicate kidney dysfunction."
+alp	cmp	Alkaline Phosphatase (ALP)	1	"Enzyme found in liver, bile ducts, and bone. Elevated ALP can signal liver or bone disease; low levels are less common but may occur in rare genetic disorders."
+alt	cmp	Alanine Aminotransferase (ALT)	1	"Liver enzyme involved in amino acid metabolism. High ALT suggests liver cell injury from hepatitis, fatty liver, or toxins."
+ast	cmp	Aspartate Aminotransferase (AST)	1	"Enzyme in liver, heart, and muscle. Elevated AST can indicate liver damage, muscle injury, or heart problems."
+ast_alt_ratio	cmp	AST/ALT Ratio	1	"Ratio of two liver enzymes. Helps distinguish between different types of liver disease, such as alcoholic vs. non-alcoholic liver injury."
+glucose	cmp	Blood Glucose	1	"Measures blood sugar level. Used to diagnose and monitor diabetes. Regulated by insulin, produced/processed by pancreas and liver."
+hemoglobin_a1c	cmp	Hemoglobin A1c (HbA1c)	1	Reflects average blood glucose over 2–3 months. Used to diagnose and monitor diabetes.
+creatinine	cmp	Creatinine	1	"Waste product from muscle metabolism, filtered by kidneys. Blood levels assess kidney function; high levels may indicate kidney dysfunction."
+beef_intake	life	Beef Consumption	1	Self-reported frequency of eating beef. High intake is associated with increased risk of heart disease and certain cancers.
+beer_cider_intake	life	Beer/Cider Consumption	1	"Self-reported frequency of drinking beer or cider. **Units indicated are servings per week.** Alcohol intake affects liver, heart, and cancer risk."
+champagne_white_wine_intake	life	Champagne/White Wine Consumption	1	Self-reported intake of champagne or white wine. **Units indicated are servings per week.** Moderate consumption may have some heart benefits; excess increases risk for liver disease and cancer.
+cheese_intake	life	Cheese Consumption	1	Frequency of cheese intake. **Units indicated are servings per week.** Cheese is rich in protein and calcium but can be high in saturated fat and salt.
+poultry_intake	life	Poultry Consumption	1	Self-reported frequency of eating chicken or turkey. **Units indicated are servings per week.** Poultry is a source of lean protein and other nutrients.
+red_wine_intake	life	Red Wine Consumption	1	Frequency of drinking red wine. **Units indicated are servings per week.** Moderate intake may have heart benefits; excess increases risk for liver disease and cancer.
+salt_added_to_food	life	Salt Added to Food	1	Frequency of adding salt to meals. High salt intake is linked to high blood pressure and increased risk of heart disease and stroke.
+spirits_intake	life	Spirits Consumption	1	"Intake of distilled alcoholic beverages (vodka, gin, whiskey, etc.). High consumption increases risk for liver disease, cancer, and other health problems."
+water_intake	life	Water Intake	1	"Self-reported amount of water consumed daily. Adequate hydration is essential for all bodily functions, including temperature regulation, kidney health, and cognitive performance."
+apob	lipid	Apolipoprotein B (ApoB)	4	"Main protein of LDL cholesterol particles. High ApoB means more LDL particles, increasing risk for atherosclerosis and heart disease."
+hdl	lipid	HDL Cholesterol	2	Good cholesterol that helps remove excess cholesterol from blood. High HDL is protective against heart disease.
+lar	lipid	LDL-to-ApoB Ratio	5	Ratio of LDL cholesterol to apolipoprotein B. Helps assess number and size of LDL particles for cardiovascular risk.
+ldl	lipid	LDL Cholesterol	1	"Bad cholesterol that can build up in arteries, increasing risk for heart disease and stroke."
+triglycerides	lipid	Triglycerides	3	Main form of fat in the blood. High levels are linked to increased risk of heart disease and pancreatitis.
+bcaas	meta	Branched-Chain Amino Acids (BCAAs)	1	"Essential amino acids (leucine, isoleucine, valine) important for muscle metabolism. Elevated BCAAs are linked to insulin resistance and metabolic disorders."
+glutamine	meta	Glutamine	1	"Amino acid important for immune function, gut health, and muscle recovery. Used as a supplement in clinical and athletic settings."
+glycine	meta	Glycine	1	"Non-essential amino acid involved in protein synthesis, neurotransmission, and as a precursor for other biomolecules."
+histidine	meta	Histidine	1	"Essential amino acid involved in growth, tissue repair, and production of histamine, an immune mediator."
+leucine	meta	Leucine	1	"Essential branched-chain amino acid important for protein synthesis, muscle repair, and energy production."
+monounsaturated_fatty_acids	meta	Monounsaturated Fatty Acids	1	"Healthy fats found in olive oil, nuts, and avocados. Support heart health by improving cholesterol and reducing inflammation."
+omega_3_fatty_acids	meta	Omega-3 Fatty Acids	1	"Essential polyunsaturated fats found in fish and some plants. Reduce inflammation, support heart and brain health, lower risk of chronic diseases."
+omega_6_fatty_acids	meta	Omega-6 Fatty Acids	1	Essential fats found in vegetable oils and nuts. Important for cell structure and metabolism; excess intake relative to omega-3s may promote inflammation.
+omega_6_to_omega_3_ratio	meta	Omega-6 to Omega-3 Ratio	1	Balance of omega-6 to omega-3 fatty acids in the diet. High ratio is linked to increased inflammation and risk of chronic disease.
+phenylalanine	meta	Phenylalanine	1	Essential amino acid needed for protein synthesis and neurotransmitter production. High levels can be harmful in phenylketonuria (PKU).
+polyunsaturated_fatty_acids	meta	Polyunsaturated Fatty Acids	1	"Fats found in fish, nuts, and seeds. Includes omega-3 and omega-6 fatty acids, essential for health and inflammation regulation."
+saturated_fatty_acids	meta	Saturated Fatty Acids	1	Fats found in animal products and some plant oils. High intake is associated with increased cholesterol and heart disease risk.
+total_fatty_acids	meta	Total Fatty Acids	1	"Sum of all fatty acids in the blood, reflecting dietary fat intake and metabolism."
+tyrosine	meta	Tyrosine	1	Amino acid used to make proteins and neurotransmitters like dopamine and norepinephrine.
+calcium_supplement	nutra	Calcium Supplement	1	"Provides calcium, essential for bone health, muscle contraction, and nerve function. Used to prevent osteoporosis and support bone strength."
+evening_primrose_oil	nutra	Evening Primrose Oil	1	"Supplement containing gamma-linolenic acid (GLA), an omega-6 fatty acid. Used for skin health, PMS, and inflammation, though evidence is mixed."
+fish_oil_supplement	nutra	Fish Oil (Omega-3) Supplement	1	"Provides omega-3 fatty acids (EPA, DHA) for heart, brain, and eye health. May reduce triglycerides and inflammation."
+folic_acid_supplement	nutra	Folic Acid Supplement	1	"Provides vitamin B9, essential for DNA synthesis and cell division. Important in pregnancy to prevent birth defects; supports heart health."
+garlic_supplement	nutra	Garlic Supplement	1	"Contains compounds like allicin. Used for cardiovascular health, blood pressure control, and immune support. May have mild cholesterol-lowering effects."
+glucosamine_supplement	nutra	Glucosamine Supplement	1	Supports joint health and may reduce osteoarthritis symptoms. Involved in cartilage formation and repair.
+iron_supplement	nutra	Iron Supplement	1	"Provides iron, necessary for making hemoglobin and supporting oxygen transport in blood. Used to treat or prevent iron-deficiency anemia."
+multivitamins_supplement	nutra	Multivitamin Supplement	1	Contains a blend of essential vitamins and minerals. Used to prevent or address nutritional deficiencies and support general health.
+oily_fish_intake	nutra	Oily Fish Consumption	1	"Frequency of eating fatty fish like salmon, mackerel, or sardines. Rich in omega-3s, supporting heart and brain health."
+selenium_supplement	nutra	Selenium Supplement	1	"Provides selenium, a trace mineral important for antioxidant defense, thyroid function, and immune health."
+vitamin_a_supplement	nutra	Vitamin A Supplement	1	"Provides vitamin A, essential for vision, immune function, and skin health."
+vitamin_b_supplement	nutra	Vitamin B Complex Supplement	1	"Contains a mix of B vitamins (B1, B2, B3, B6, B12, etc.), important for energy metabolism, nerve function, and red blood cell formation."
+vitamin_c_supplement	nutra	Vitamin C Supplement	1	"Provides vitamin C, an antioxidant important for immune health, collagen formation, and iron absorption."
+vitamin_d_supplement	nutra	Vitamin D Supplement	1	"Supplement form of vitamin D, used to maintain healthy bones and immune system, especially in people with low sun exposure or absorption issues."
+vitamin_e_supplement	nutra	Vitamin E Supplement	1	"Provides vitamin E, an antioxidant that protects cells from damage and supports immune health."
+vitamins	nutra	General Vitamin Supplement	1	Supplement providing a mix of essential vitamins for overall health and to prevent deficiencies.
+zinc_supplement	nutra	Zinc Supplement	1	"Provides zinc, an essential mineral for immune function, wound healing, and DNA synthesis."
+acy1	prot	ACY1	1	"Aminoacylase 1, an enzyme involved in amino acid metabolism, primarily in the liver and kidney. Important for breaking down certain peptides."
+alpp	prot	ALPP	1	"Placental-type alkaline phosphatase, a protein mainly produced in the placenta. Outside pregnancy, elevated levels may be seen in some cancers."
+apoe	prot	APOE	1	"Apolipoprotein E, a protein involved in cholesterol transport and metabolism. Certain genetic variants increase risk for Alzheimer's and cardiovascular disease."
+cxcl17	prot	CXCL17	1	Chemokine protein involved in immune cell recruitment and mucosal immunity. Its precise disease role is under study.
+eda2r	prot	EDA2R	1	"Ectodysplasin A2 receptor, a protein involved in cell signaling and development."
+efna4	prot	EFNA4	1	"Ephrin-A4, a protein involved in cell signaling, especially in nervous system development."
+gdf15	prot	GDF15	1	"Growth Differentiation Factor 15, a protein regulating inflammation and cellular stress. Elevated in cancer, heart disease, and metabolic disorders."
+gfap	prot	GFAP	1	"Glial Fibrillary Acidic Protein, found in brain and spinal cord. Marker for brain injury and neurological disease."
+igf1	prot	IGF1	1	"Insulin-like Growth Factor 1, a hormone produced mainly in the liver. Promotes growth in childhood and has anabolic effects in adults."
+igfbp4	prot	IGFBP4	1	"Insulin-like Growth Factor Binding Protein 4, regulates IGF1 and IGF2 activity, modulating growth and metabolism."
+igsf3	prot	IGSF3	1	"Immunoglobulin Superfamily Member 3, involved in cell adhesion and immune response."
+igsf9	prot	IGSF9	1	"Immunoglobulin Superfamily Member 9, involved in cell-cell interactions, especially in the nervous system."
+krt18	prot	KRT18	1	"Keratin 18, a structural protein in epithelial cells. Marker of cell death in liver disease and some cancers."
+nefl	prot	NEFL	1	"Neurofilament Light Chain, a protein in nerve cells. Marker for nerve damage or neurodegenerative disease."
+plaur	prot	PLAUR	1	"Plasminogen Activator, Urokinase Receptor, involved in breaking down blood clots and tissue remodeling."
+tnfrsf10b	prot	TNFRSF10B	1	"Tumor Necrosis Factor Receptor Superfamily Member 10B, a protein involved in cell death signaling."
+wfdc2	prot	WFDC2	1	"WAP Four-Disulfide Core Domain Protein 2 (HE4), used as a biomarker for ovarian cancer and other conditions."

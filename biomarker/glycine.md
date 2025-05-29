@@ -2,14 +2,14 @@
 title: "Glycine"
 parent: "Metabolites"
 grand_parent: "Risk by Biomarker"
-nav_order: "Non-essential amino acid involved in protein synthesis, neurotransmission, and as a precursor for other biomolecules."
+nav_order: 1
 ---
 
 
 ## Glycine
 
 
-
+"Non-essential amino acid involved in protein synthesis, neurotransmission, and as a precursor for other biomolecules."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

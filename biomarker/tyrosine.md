@@ -2,14 +2,14 @@
 title: "Tyrosine"
 parent: "Metabolites"
 grand_parent: "Risk by Biomarker"
-nav_order: Amino acid used to make proteins and neurotransmitters like dopamine and norepinephrine.
+nav_order: 1
 ---
 
 
 ## Tyrosine
 
 
-
+Amino acid used to make proteins and neurotransmitters like dopamine and norepinephrine.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

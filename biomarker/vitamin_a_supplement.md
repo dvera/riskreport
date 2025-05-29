@@ -2,14 +2,14 @@
 title: "Vitamin A Supplement"
 parent: "Nutraceuticals"
 grand_parent: "Risk by Biomarker"
-nav_order: "Provides vitamin A, essential for vision, immune function, and skin health."
+nav_order: 1
 ---
 
 
 ## Vitamin A Supplement
 
 
-
+"Provides vitamin A, essential for vision, immune function, and skin health."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

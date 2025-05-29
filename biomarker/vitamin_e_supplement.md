@@ -2,14 +2,14 @@
 title: "Vitamin E Supplement"
 parent: "Nutraceuticals"
 grand_parent: "Risk by Biomarker"
-nav_order: "Provides vitamin E, an antioxidant that protects cells from damage and supports immune health."
+nav_order: 1
 ---
 
 
 ## Vitamin E Supplement
 
 
-
+"Provides vitamin E, an antioxidant that protects cells from damage and supports immune health."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

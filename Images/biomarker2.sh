@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Input file
-file="biomarker2.tsv"
+file="biomarkers2.txt"
 
 
 

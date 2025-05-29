@@ -2,14 +2,14 @@
 title: "GFAP"
 parent: "Proteins"
 grand_parent: "Risk by Biomarker"
-nav_order: "Glial Fibrillary Acidic Protein, found in brain and spinal cord. Marker for brain injury and neurological disease."
+nav_order: 1
 ---
 
 
 ## GFAP
 
 
-
+"Glial Fibrillary Acidic Protein, found in brain and spinal cord. Marker for brain injury and neurological disease."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

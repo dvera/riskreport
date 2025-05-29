@@ -2,14 +2,14 @@
 title: "Saturated Fatty Acids"
 parent: "Metabolites"
 grand_parent: "Risk by Biomarker"
-nav_order: Fats found in animal products and some plant oils. High intake is associated with increased cholesterol and heart disease risk.
+nav_order: 1
 ---
 
 
 ## Saturated Fatty Acids
 
 
-
+Fats found in animal products and some plant oils. High intake is associated with increased cholesterol and heart disease risk.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

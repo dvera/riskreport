@@ -2,14 +2,14 @@
 title: "Polyunsaturated Fatty Acids"
 parent: "Metabolites"
 grand_parent: "Risk by Biomarker"
-nav_order: "Fats found in fish, nuts, and seeds. Includes omega-3 and omega-6 fatty acids, essential for health and inflammation regulation."
+nav_order: 1
 ---
 
 
 ## Polyunsaturated Fatty Acids
 
 
-
+"Fats found in fish, nuts, and seeds. Includes omega-3 and omega-6 fatty acids, essential for health and inflammation regulation."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

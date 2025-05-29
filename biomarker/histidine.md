@@ -2,14 +2,14 @@
 title: "Histidine"
 parent: "Metabolites"
 grand_parent: "Risk by Biomarker"
-nav_order: "Essential amino acid involved in growth, tissue repair, and production of histamine, an immune mediator."
+nav_order: 1
 ---
 
 
 ## Histidine
 
 
-
+"Essential amino acid involved in growth, tissue repair, and production of histamine, an immune mediator."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

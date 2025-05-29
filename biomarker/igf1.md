@@ -2,14 +2,14 @@
 title: "IGF1"
 parent: "Proteins"
 grand_parent: "Risk by Biomarker"
-nav_order: "Insulin-like Growth Factor 1, a hormone produced mainly in the liver. Promotes growth in childhood and has anabolic effects in adults."
+nav_order: 1
 ---
 
 
 ## IGF1
 
 
-
+"Insulin-like Growth Factor 1, a hormone produced mainly in the liver. Promotes growth in childhood and has anabolic effects in adults."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

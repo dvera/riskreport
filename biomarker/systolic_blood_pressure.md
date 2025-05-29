@@ -2,14 +2,14 @@
 title: "Systolic Blood Pressure"
 parent: "Physical/Vitals"
 grand_parent: "Risk by Biomarker"
-nav_order: "Top number in a blood pressure reading, representing pressure in arteries when the heart beats. High levels are a major risk factor for heart disease and stroke."
+nav_order: 3
 ---
 
 
 ## Systolic Blood Pressure
 
 
-
+"Top number in a blood pressure reading, representing pressure in arteries when the heart beats. High levels are a major risk factor for heart disease and stroke."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
