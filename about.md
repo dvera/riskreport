@@ -6,7 +6,7 @@ nav_order: 99
 
 # About Voloridge Health, LLC
 
-Voloridge Health, LLC develops advanced tools to provide predictive and personalized insights that empower individuals and organizations with data-driven clarity, enabling longer, healthier lives. To learn more visit www.voloridgehealth.com.
+Voloridge Health, LLC develops advanced tools to provide predictive and personalized insights that empower individuals and organizations with data-driven clarity, enabling longer, healthier lives.To learn more visit www.voloridgehealth.com.
 
 #  About VoLo Foundation
 

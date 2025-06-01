@@ -16,7 +16,7 @@ A guide for patients and clinicians to understand health through biomarkers
 
 ## Introduction
 
-Blood test results can be overwhelming. You are often presented with significant information, yet not enough to truly understand what is important. Voloridge Health (VH) created this guide as a resource to help individuals and their care providers interpret lab test data. The guide contains ranges of values for biomarkers and age-related diseases. These ranges aim to provide clarity when reviewing blood test results.  
+Blood test results can be overwhelming. You are often presented with significant information, yet not enough to truly understand what is important. Voloridge Health (VH) created this guide as a resource to help individuals and their care providers interpret lab test data. The guide contains ranges of values for biomarkers and age-related diseases. These ranges aim to provide clarity when reviewing blood test results.
 
 This guide explores seven common age-associated, disease-related outcomes related to cardiac, metabolic, lung, liver, kidney, cognitive, and all-cause mortality. The VH team chose these outcomes based on the prevalence and individual impacts on aging and mortality.
 
@@ -73,6 +73,6 @@ This guide presents blood biomarker and related information solely for informati
 [2]  Kristensen, Michael, Anne Kristine Servais Iversen, Thomas Alexander Gerds, Rebecca Østervig, Jakob Danker Linnet, Charlotte Barfod, Kai Henrik Wiborg Lange et al. "Routine blood tests are associated with short term mortality and can improve emergency department triage: a cohort study of> 12,000 patients." Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine 25 (2017): 1-8.
 
 <a name="ftn3"></a>
-[3] Chatterjee, Sudesna, Kamlesh Khunti, and Melanie J. Davies. "Type 2 diabetes." The lancet 389, no. 10085 (2017): 2239-2251.
+[3] Chatterjee, Sudesna, Kamlesh Khunti, and Melanie J. Davies. "Type 2 diabetes."The lancet389, no. 10085 (2017): 2239-2251.
 
 
