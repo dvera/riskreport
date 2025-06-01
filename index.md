@@ -25,7 +25,7 @@ This guide explores seven common age-associated, disease-related outcomes relate
 The first step to understanding your bloodwork is recognizing what a blood test is collecting and measuring. A biomarker, or biological marker, is a measurable indicator of a biological process or condition in your body.[[1]](#ftn1)  One of the most common ways to measure certain biomarkers is through blood tests, if the biomarker is present in your blood.
 
 
-Biomarkers offer insights into your health, including early detection of diseases. A simple blood test can provide valuable information about your risk for heart (cardiac) disease, liver disease, mortality, and more.[[2]](#ftn2)  Understanding what biomarkers reveal about your personal health is the key to an accurate interpretation of your blood test results. To assist with this challenge, we present information in this guide in the form of risk multipliers and Voloridge™ Modeled Range values or VMR™ values.
+Biomarkers offer insights into your health, including early detection of diseases. A simple blood test can provide valuable information about your risk for heart (cardiac) disease, liver disease, mortality, and more.[[2]](#ftn2)  Understanding what biomarkers reveal about your personal health is the key to an accurate interpretation of your blood test results. To assist with this challenge, we present information in this guide in the form of risk multipliers and Voloridge Modeled Range values or VMR values.
 
 
 ## What is a risk multiplier?
@@ -36,7 +36,7 @@ A risk multiplier represents the association between biomarker values and future
 
 ## What is a VMR value?
 
-Reference ranges typically provided with blood test results are population based. In contrast, the Voloridge™ Modeled Range™ or VMR™ is the range of a single biomarker's values associated with the lowest future incidence of diseases. Because there are multiple disease groups, the VMRs are based on a weighted average incidence of the major disease groups addressed in this guide. Because the VMRs are calculated directly by Voloridge Health's models based on a specific data set, and not designed to be medical recommendations, these values may differ from what you see as reference ranges with a blood test result.
+Reference ranges typically provided with blood test results are population based. In contrast, the Voloridge Modeled Range or VMR is the range of a single biomarker's values associated with the lowest future incidence of diseases. Because there are multiple disease groups, the VMRs are based on a weighted average incidence of the major disease groups addressed in this guide. Because the VMRs are calculated directly by Voloridge Health's models based on a specific data set, and not designed to be medical recommendations, these values may differ from what you see as reference ranges with a blood test result.
 
 
 

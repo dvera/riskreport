@@ -14,9 +14,9 @@ The prediction strength metric is calculated by applying a non-linear (spline) c
 
 The normalization method discussed above avoids deceptive correlations with biomarkers correlating to outcomes simply because they correlate to age. Many of the outcomes also correlate highly with age.
 
-## VMR™ Values
+## VMR Values
 
-The Voloridge Modeled Range™ or VMR™, is the range of values of a marker yielding the lowest overall 15-year association with the seven disease outcomes. This does not represent a risk category, nor should it be interpreted as a recommendation of any kind. It is simply representing associations in the UK Biobank database of 500,000 participants and between their biomarker values and their 15-year outcomes. To determine the VMR, we begin by fitting a univariate spline for each of the seven targets against a biomarker. The seven splines are averaged into one final curve with respect to the biomarker. We define the VMR as the biomarker values corresponding to a risk of no more than 20% above the minimum mean risk. Additional constraints ensure the optimal range does not raise the risk for any individual disease beyond the greater of 0.9 or 30% above each disease's minimum risk. We further restrict the range by placing limits at the top and bottom 1 percent of the biomarker distribution.
+The Voloridge Modeled Range or VMR, is the range of values of a marker yielding the lowest overall 15-year association with the seven disease outcomes. This does not represent a risk category, nor should it be interpreted as a recommendation of any kind. It is simply representing associations in the UK Biobank database of 500,000 participants and between their biomarker values and their 15-year outcomes. To determine the VMR, we begin by fitting a univariate spline for each of the seven targets against a biomarker. The seven splines are averaged into one final curve with respect to the biomarker. We define the VMR as the biomarker values corresponding to a risk of no more than 20% above the minimum mean risk. Additional constraints ensure the optimal range does not raise the risk for any individual disease beyond the greater of 0.9 or 30% above each disease's minimum risk. We further restrict the range by placing limits at the top and bottom 1 percent of the biomarker distribution.
 
 ## Population
 
