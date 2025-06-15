@@ -8,7 +8,7 @@ has_children: TRUE
 
 # Most Predictive Biomarkers by Disease
 
-This section provides VMR™ values for our models' most predictive biomarkers in each of the seven categories listed below. The VMR values apply to clinically relevant age ranges for each disease. You can use them as a reference to compare your own blood test results, but it is imperative to review all interpretation and treatment decisions with your physician.
+This section provides VMR values for our models' most predictive biomarkers in each of the seven categories listed below. The VMR values apply to clinically relevant age ranges for each disease. You can use them as a reference to compare your own blood test results, but it is imperative to review all interpretation and treatment decisions with your physician.
 
 - [Major Adverse Cardiac Events (MACE)](/disease//mace/)
 - [Type 2 Diabetes (T2D)](/disease/diabetes/)
