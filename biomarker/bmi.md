@@ -9,7 +9,7 @@ nav_order: 2
 ## Body Mass Index (BMI)
 
 
-"Weight-to-height ratio (kg/m²). Used to classify underweight, normal weight, overweight, or obesity. High BMI is linked to diabetes, heart disease, and some cancers."
+"Body Mass Index (BMI) is quick calculation using a person's height and weight to estimate if they are within a healthy weight range. It does not directly measure body fat but gives an idea of whether someone might be underweight, normal weight, overweight, or obese."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

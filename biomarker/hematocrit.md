@@ -9,7 +9,7 @@ nav_order: 5
 ## Hematocrit
 
 
-Percentage of blood volume made up by red blood cells. Low values suggest anemia; high values may indicate dehydration or polycythemia.
+Percentage of blood volume made up by red blood cells. 
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

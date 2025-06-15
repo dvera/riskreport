@@ -9,7 +9,7 @@ nav_order: 1
 ## Hemoglobin A1c (HbA1c)
 
 
-Reflects average blood glucose over 2–3 months. Used to diagnose and monitor diabetes.
+"Hemoglobin A1c (HbA1c) is an indirect indicator of your average blood sugar (glucose) level over the past two to three months. Glucose attaches to the hemoglobin protein on the red blood cells. The higher the HbA1c percentage, the more glucose attached to the hemoglobin. Elevated HbA1c levels are associated with metabolic syndrome, prediabetes, and diabetes. Because it is not as affected by occasional fluctuations in blood glucose, HbA1c can detect diabetes before a fasting blood glucose level can. **Please be aware that HbA1c can be inaccurate for various medical conditions such as if a person is anemic or has factors influencing blood volume."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

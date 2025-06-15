@@ -9,7 +9,7 @@ nav_order: 1
 ## LDL Cholesterol
 
 
-"Bad cholesterol that can build up in arteries, increasing risk for heart disease and stroke."
+"LDL Cholesterol (low-density lipoprotein),  LDL Cholesterol (low-density lipoprotein) carries cholesterol made by the liver through the bloodstream to other parts of the body where it is needed for healthy cell function and hormone production. "
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

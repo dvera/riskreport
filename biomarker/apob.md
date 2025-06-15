@@ -9,7 +9,7 @@ nav_order: 4
 ## Apolipoprotein B (ApoB)
 
 
-"Main protein of LDL cholesterol particles. High ApoB means more LDL particles, increasing risk for atherosclerosis and heart disease."
+"Apolipoprotein B (apoB) is the main protein found in atherogenic lipoproteins like LDL and VLDL, with each particle carrying one apoB molecule. Because of this, apoB levels reflect the total number of these cholesterol-carrying particles in the blood and are considered a more accurate indicator of cardiovascular risk than traditional LDL-C measurements."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

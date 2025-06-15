@@ -9,7 +9,7 @@ nav_order: 6
 ## Red Cell Distribution Width (RDW)
 
 
-Measures variation in red blood cell size. High RDW can indicate mixed types of anemia or other blood disorders.
+"Red Blood Cell Distribution Width (RDW) is a measurement of the variation in the volume and size of your red blood cells (erythrocytes). Red blood cells are made in your bone marrow (the spongy tissue inside your large bones). They contain hemoglobin, an iron-rich protein that carries oxygen from your lungs to every cell in your body. Your cells need oxygen to grow, reproduce, and make energy for you to function. Normally, your red blood cells are about the same size. Differences in the size of your red blood cells may affect how well they can deliver oxygen through your body. An RDW test uses a special graph called a histogram. If your red blood cells are about the same size, they will be close together on the histogram, and the RDW will be low. A high RDW means the size of your red blood cells varies more than it should. The sizes will be more spread out on the histogram. This may be a sign of a medical condition."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

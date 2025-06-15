@@ -9,7 +9,7 @@ nav_order: 1
 ## Lipoprotein(a)
 
 
-Lipoprotein particle similar to LDL with an added protein. High levels are a genetic risk factor for cardiovascular disease.
+Lipoprotein (a) is a type of LDL (low-density lipoprotein). Lipoproteins are particles made of protein and fats (lipids). They carry cholesterol through your bloodstream to your cells. These lipoproteins carry cholesterol to the cells in your arteries. 
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

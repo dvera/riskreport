@@ -9,7 +9,7 @@ nav_order: 1
 ## Urea
 
 
-"Waste product formed from protein breakdown, filtered by kidneys. High levels can indicate kidney dysfunction."
+"Urea is a waste product created when the liver breaks down proteins, and it is filtered by the kidneys and excreted in urine. Urea levels help indicate kidney and liver function, and abnormal results may signal health concerns in these areas."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 

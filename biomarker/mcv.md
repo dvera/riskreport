@@ -9,7 +9,7 @@ nav_order: 6
 ## Mean Corpuscular Volume (MCV)
 
 
-"Measures the average size of red blood cells. Used to classify types of anemia and assess bone marrow function. Abnormal values can indicate vitamin B12/folate deficiency, iron deficiency, or chronic disease."
+"Mean Corpuscular Volume (MCV) is part of a complete blood count (CBC). A CBC is a common blood test measuring many parts of your blood, including red blood cells. An MCV blood test measures the average size of your red blood cells. Red blood cells carry oxygen from your lungs to every cell in your body. Your cells need oxygen to grow, reproduce, and stay healthy. If your red blood cells are too small or too large, it could be a sign of a blood disorder such as anemia, a lack of certain vitamins, or other medical conditions."
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
