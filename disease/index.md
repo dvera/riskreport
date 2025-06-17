@@ -16,8 +16,6 @@ This section provides VMR values for our models' most predictive biomarkers in e
 - [Renal Disease](/disease/renal/)
 - [Liver Disease](/disease/liver/)
 - [Chronic Obstructive Pulmonary Disease (COPD)](/disease/copd/)
-- [All-Cause Mortality](/disease/mortality/)
-
 
 ## About this Section
 
