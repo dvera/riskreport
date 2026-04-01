@@ -1,6 +1,7 @@
 ---
 title: Lung
 parent: "Risk by Disease"
+nav_exclude: true
 ---
 
 
