@@ -16,9 +16,11 @@ A guide for patients and clinicians to understand health through biomarkers
 
 ## Introduction
 
-Blood test results can be overwhelming. You are often presented with significant information, yet not enough to truly understand what is important. Voloridge Health (VH) created this guide as a resource to help individuals and their care providers interpret lab test data. The guide contains ranges of values for biomarkers and age-related diseases. These ranges aim to provide clarity when reviewing blood test results.
+Laboratory tests can be overwhelming. A lack of interpretive context and patient understanding can often eclipse the significance of critical health results. Clinicians face challengs integrating rapidly expanding medical evidence with clinical practice, creating a research-to-practice gap impeding optimal care. The Voloridge Health (VH) Biomarker Reference Guide is intended as an aid for understanding and evaluating laboratory test results and their impact on current health within six health domains, including longevity. This guide contains Voloridge Modeled Range (VMR) values for biomarkers and age-related illnesses, to provide clarity when reviewing test results. 
 
-This guide explores seven common age-associated, disease-related outcomes related to cardiac, metabolic, lung, liver, kidney, cognitive, and all-cause mortality. The VH team chose these outcomes based on the prevalence and individual impacts on aging and mortality.
+The six health domains were selected based on their prevalence and individual impact on aging and overall health and wellness. The guide explores asge-associated health domains invluding cardiovascular, kidney, metabolic, brain, inflammation, and longevity. 
+
+Patients should seek advice from a qualified healthcare professional with any questions regarding diagnosis, cure, treatment, mitigation, prevention of disease, medical conditions, or impairment in health. The VH Biomarker Reference Guide does not account for all important factors linked to health and therefore cannot rule out the presence or absence of disease or other medical conditions. 
 
 ## What is a biomarker?
 
@@ -28,35 +30,35 @@ The first step to understanding your bloodwork is recognizing what a blood test 
 Biomarkers offer insights into your health, including early detection of diseases. A simple blood test can provide valuable information about your risk for heart (cardiac) disease, liver disease, mortality, and more.[[2]](#ftn2)  Understanding what biomarkers reveal about your personal health is the key to an accurate interpretation of your blood test results. To assist with this challenge, we present information in this guide in the form of risk multipliers and Voloridge Modeled Range values or VMR values.
 
 
-## What is a risk multiplier?
+## What is a prevalence multiplier?
 
-A risk multiplier represents the association between biomarker values and future incidence of a disease. The biomarker range associated with the lowest incidence is assigned a risk multiplier of 1. After that, if for example a biomarker range has a 40% increase in incidence, it would have a value of 1.4. All risk multiplier values are separated by gender and represent relative incidence of the disease compared to others your age.
+The biomarker prevalence multiplier is a metric measuring the degree to which the biomarker value is impacting the health domain and provides insights into whether an individual is at increased or decreased prevalence of adverse health outcomes, when compared with a peer population. Prevalence multiplier values above 1.0 indicate increased prevalence, whereas values below 1.0 indicate decreased prevalence. As an example, an individual biomarker with a prevalence multiplier of 1.4 indicated 40% increased prevalence of associated diseases and adverse outcomes of a health domain within a 15-year timespan, compared to peers of the same age and sex. 
 
 ![riskmultiplier](/assets/images/riskmultiplier.png)
 
 ## What is a VMR value?
 
-Reference ranges typically provided with blood test results are population based. In contrast, the Voloridge Modeled Range or VMR is the range of a single biomarker's values associated with the lowest future incidence of diseases. Because there are multiple disease groups, the VMRs are based on a weighted average incidence of the major disease groups addressed in this guide. Because the VMRs are calculated directly by Voloridge Health's models based on a specific data set, and not designed to be medical recommendations, these values may differ from what you see as reference ranges with a blood test result.
+Reference ranges typically provided with blood test results are population based. In contrast, the Voloridge Modeled Range or VMR is the range of a single biomarker's values associated with the lowest future incidence of adverse outcomes and age-related illnesses within a health domain. Because there are multiple health domains, the VMRs are based on a weighted average prevalence of the major adverse outcomes within health domains addressed in this guide. Because the VMRs are calculated directly by Voloridge Health's models based on a specific data set, and not designed to be medical recommendations, these values may differ from what you see as reference ranges with a blood test result.
 
 
 
 
 ## What makes Voloridge Health different?
 
-Many traditional models focus on an individual predictor and its relationship to a single outcome. An example of this is measuring cholesterol and its relationship to heart disease. Furthermore, ranges typical in medical literature are based on clinical recommendations and/or population averages rather than connecting biomarkers with longer-term health outcome probabilities. In contrast, Voloridge Health examines many health predictors across multiple potential disease outcomes together. Our VMR values are based on real data associations between biomarker ranges and 15-year disease outcomes. By evaluating each health predictor in an unbiased manner, we derive a fully data-driven, long-term view of health risks. This guide is designed to help you see patterns single-variable studies might miss, supporting a proactive and holistic approach to healthcare.
+Many traditional models focus on an individual predictor and its relationship to a single outcome. An example of this is measuring cholesterol and its relationship to heart disease. Furthermore, ranges typical in medical literature are based on clinical recommendations and/or population averages rather than connecting biomarkers with longer-term health outcome probabilities. In contrast, Voloridge Health examines many health predictors across multiple potential outcomes together. Our VMR values are based on real data associations between biomarker ranges and 15-year adverse outcomes. By evaluating each health predictor in an unbiased manner, we derive a fully data-driven, long-term view of health. This guide is designed to help you see patterns single-variable studies might miss, supporting a proactive and holistic approach to healthcare.
 
 ## Predictive strength
 
-Another way Voloridge Health evaluates how biomarkers can predict health is with a predictive strength value. This metric demonstrates how strongly each biomarker correlates with a specific disease. In the *VMR Values by Disease* section of this guide, the biomarkers are colored with a gradient as illustrated in the graphic below. White represents a lower strength, while green represents a higher strength.
+Another way Voloridge Health evaluates how biomarkers can predict health is with a predictive strength value. This metric demonstrates how strongly each biomarker correlates with adverse outcomes within a health domain. In the *VMR Values by Disease* section of this guide, the biomarkers are colored with a gradient as illustrated in the graphic below. White represents a lower strength, while green represents a higher strength.
 
 ![riskmultiplier](/assets/images/pstrength.png)
 
 
 Additionally, you can find all biomarkers and their predictive strength values in the *Predictive Strength Values*  section. We scale predictive strength from zero (no predictive strength) to 10, the highest predictive strength. A value of 7 would have 70% of the predictive strength of a value of 10.
 
-## Disease definitions
+## Health domain definitions
 
-Some diseases are defined by comparing specific biomarker levels to established thresholds. For example, type 2 diabetes is typically diagnosed if Hemoglobin A1C levels are at or above 6.5 percent.[[3]](#ftn3) In this case, a risk multiplier is no longer meaningful, given the likelihood someone is diagnosed with such a disease is nearly 100 percent if their biomarker value passes that threshold. However, for the purpose of this guide, values are provided for such biomarkers regardless of these definitions, to maintain consistency and show data trends.
+Some outcomes are defined by comparing specific biomarker levels to established thresholds. For example, type 2 diabetes is typically diagnosed if Hemoglobin A1C levels are at or above 6.5 percent.[[3]](#ftn3) In this case, a prevalence multiplier is no longer meaningful, given the likelihood someone who is diagnosed with type 2 diabetes is nearly 100 percent if their biomarker value passes that threshold. However, for the purpose of this guide, values are provided for such biomarkers regardless of these definitions, to maintain consistency and show data trends.
 
 
 ## Disclaimer
