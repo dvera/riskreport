@@ -25,4 +25,4 @@ This section provides two parts. The first part includes a description of the he
 
 The second part of each domain page includes domain-specific prevalence multipliers for each of the included biomarkers.
 
-![legendrr](/assets/images/legend_rr_v2.png)
+![legendrr](/assets/images/legend_pm.png)
