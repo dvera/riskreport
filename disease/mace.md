@@ -7,16 +7,13 @@ parent: "Risk by Disease"
 ## Cardiac Health
 
 
-"For cardiac health we model and predict the 15-year probability of a **Major Adverse Cardiac Event (MACE).** We define **MACE** as all myocardial infarctions (or heart attacks), all strokes (hemorrhagic and ischemic) and complications following these events. Below are values of our model's most predictive biomarkers for MACE in males and females aged 55 to 70 with no prior history of MACE."
-
-
-Below are suggested target values for the most predictive biomarkers for experiencing MACE in males and females aged 55 to 70 with no prior history of MACE.
+The table ranks the top biomarkers with the greatest impact (or strength) in the cardiovascular health domain and identifies the Voloridge Modeled Ranges (VMRs). Each biomarker factors into your health and wellness differently than it may for other people, with certain biomarkers more important for some individuals over others, based on individualized data (e.g. age, sex, scores related to other biomarkers). Taking steps to improve biomarkers with the highest strength may help reduce the risk of, or impact of, chronic cardiovascular disease including heart attack, stroke, and cardiovascular death. Talk to your doctor about steps you can take to improve your biomarkers for cardiovascular health. 
 
 
 ![Cardiacvmr](/assets/images/table_mace.png)
 
 
-The table below contains Cardiac Health risk ratios for each of the included biomarkers.
+The table below contains cardiovascular health prevalence multipliers for each of the included biomarkers.
 
 
 ![Cardiacrr](/assets/images/rr_mace.png)
