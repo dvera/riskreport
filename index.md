@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-**You can download a PDF version of this guide [here](/assets/biomarker_reference_guide_v2.pdf)**
+
 
 
 # The Voloridge Health Biomarker Reference Guide 
