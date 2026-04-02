@@ -14,8 +14,7 @@ This section provides VMR values for our models' most predictive biomarkers in e
 - [Kidney Health](/disease/renal/)
 - [Metabolic Health](/disease/diabetes/)
 - [Brain Health](/disease/dementia/)
-- [Liver Health](/disease/liver/)
-- [Chronic Obstructive Pulmonary Disease (COPD)](/disease/copd/)
+
 
 ## About this Section
 
