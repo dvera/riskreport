@@ -1,6 +1,6 @@
 ---
 title: Lung
-parent: "Risk by Disease"
+parent: "Most Predictive Biomarkers by Health Domain"
 nav_exclude: true
 ---
 
