@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Prevalence by biomarker"
+title: "Risk by biomarker"
 nav_order: 3
 has_children: TRUE
 ---
