@@ -1,6 +1,6 @@
 ---
 title: "Physical/Vitals"
-parent: "Risk by Biomarker"
+parent: "Prevalence by Biomarker"
 has_children: TRUE
 nav_order: 1
 ---

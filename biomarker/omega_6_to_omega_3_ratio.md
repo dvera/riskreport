@@ -1,7 +1,7 @@
 ---
 title: "Omega-6 to Omega-3 Ratio"
 parent: "Metabolites"
-grand_parent: "Risk by Biomarker"
+grand_parent: "Prevalence by Biomarker"
 nav_order: 1
 ---
 

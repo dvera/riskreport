@@ -1,7 +1,7 @@
 ---
 title: "Apolipoprotein B (ApoB)"
 parent: "Lipids"
-grand_parent: "Risk by Biomarker"
+grand_parent: "Prevalence by Biomarker"
 nav_order: 4
 ---
 

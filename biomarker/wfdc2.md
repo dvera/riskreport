@@ -1,7 +1,7 @@
 ---
 title: "WFDC2"
 parent: "Proteins"
-grand_parent: "Risk by Biomarker"
+grand_parent: "Prevalence by Biomarker"
 nav_order: "WAP Four-Disulfide Core Domain Protein 2 (HE4), used as a biomarker for ovarian cancer and other conditions."
 ---
 

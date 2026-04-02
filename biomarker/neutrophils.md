@@ -1,7 +1,7 @@
 ---
 title: "Neutrophil Count"
 parent: "CBC (Complete Blood Counts)"
-grand_parent: "Risk by Biomarker"
+grand_parent: "Prevalence by Biomarker"
 nav_order: 3
 ---
 

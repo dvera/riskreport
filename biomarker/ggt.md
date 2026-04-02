@@ -1,7 +1,7 @@
 ---
 title: "Gamma-Glutamyl Transferase (GGT)"
 parent: "Advanced Biomarkers"
-grand_parent: "Risk by Biomarker"
+grand_parent: "Prevalence by Biomarker"
 nav_order: 1
 ---
 

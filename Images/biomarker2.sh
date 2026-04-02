@@ -15,7 +15,7 @@ echo "$cat $menu_name $desc $cat_name"
 echo "---
 title: \"$menu_name\"
 parent: \"$cat_name\"
-grand_parent: \"Risk by Biomarker\"
+grand_parent: \"Prevalence by Biomarker\"
 nav_order: $order
 ---
 

@@ -7,7 +7,7 @@ file="biomarker.tsv"
 
 echo "---
 title: $menu_name
-parent: \"Risk by Biomarker\"
+parent: \"Prevalence by Biomarker\"
 ---
 
 

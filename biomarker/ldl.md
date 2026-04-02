@@ -1,7 +1,7 @@
 ---
 title: "LDL Cholesterol"
 parent: "Lipids"
-grand_parent: "Risk by Biomarker"
+grand_parent: "Prevalence by Biomarker"
 nav_order: 1
 ---
 

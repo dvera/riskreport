@@ -1,6 +1,6 @@
 ---
 title: "Proteins"
-parent: "Risk by Biomarker"
+parent: "Prevalence by Biomarker"
 has_children: TRUE
 nav_order: 8
 ---

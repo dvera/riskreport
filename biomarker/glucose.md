@@ -1,7 +1,7 @@
 ---
 title: "Blood Glucose"
 parent: "Metabolic Panel"
-grand_parent: "Risk by Biomarker"
+grand_parent: "Prevalence by Biomarker"
 nav_order: 1
 ---
 

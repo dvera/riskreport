@@ -14,7 +14,7 @@ echo "$cat $menu_name $desc"
 
 echo "---
 title: \"$menu_name\"
-parent: \"Risk by Biomarker\"
+parent: \"Prevalence by Biomarker\"
 has_children: TRUE
 nav_order: $order
 ---

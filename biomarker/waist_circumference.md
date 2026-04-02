@@ -1,7 +1,7 @@
 ---
 title: "Waist Circumference"
 parent: "Physical/Vitals"
-grand_parent: "Risk by Biomarker"
+grand_parent: "Prevalence by Biomarker"
 nav_order: 5
 ---
 
