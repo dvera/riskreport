@@ -1,6 +1,6 @@
 ---
 title: Metabolic
-parent: "Risk by Disease"
+parent: "Most Predictive Biomarkers by Health Domain"
 ---
 
 
