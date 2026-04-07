@@ -9,7 +9,7 @@ nav_order: 1
 ## ACY1
 
 
-"Aminoacylase 1, an enzyme involved in amino acid metabolism, primarily in the liver and kidney. Important for breaking down certain peptides."
+Aminoacylase 1, an enzyme involved in amino acid metabolism, primarily in the liver and kidney. Important for breaking down certain peptides.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
