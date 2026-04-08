@@ -2,7 +2,7 @@
 title: Lung
 parent: "Most Predictive Biomarkers by Health Domain"
 nav_exclude: true
-searc_exclude: true
+search_exclude: true
 ---
 
 
