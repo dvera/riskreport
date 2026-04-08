@@ -9,7 +9,7 @@ nav_order: 1
 ## APOE
 
 
-"Apolipoprotein E, a protein involved in cholesterol transport and metabolism. Certain genetic variants increase risk for Alzheimer's and cardiovascular disease."
+Apolipoprotein E is a protein involved in cholesterol transport and metabolism. Certain genetic variants increase prevalence of Alzheimer's and age-related cardiovascular illness.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
