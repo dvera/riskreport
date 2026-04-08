@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Methods"
-nav_exclude: false
+nav_exclude: true
 has_children: FALSE
 ---
 
