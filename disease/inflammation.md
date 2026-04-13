@@ -14,7 +14,7 @@ The table ranks the top biomarkers with the greatest impact (or strength) in the
 Below are values for our model's most predictive biomarkers for adverse inflammation health outcomes in males and females aged 40 to 70.
 
 
-![Cognitivevmr](/assets/images/table_dementia.png)
+![Inflammationvmr](/assets/images/table_Inflammation_V2.png)
 
 
 The table below contains inflammation health prevalence multipliers for each of the included biomarkers.
