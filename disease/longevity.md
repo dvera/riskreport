@@ -13,7 +13,7 @@ The table ranks the top biomarkers with the greatest impact (or strength) on lon
 Below are values for our model's most predictive biomarkers for adverse outcomes in males and females aged 40 to 70.
 
 
-![Metabolicvmr](/assets/images/table_diabetes.png)
+![Logevityvmr](/assets/images/table_Mortality_V2.png)
 
 
 The table below contains longevity prevalence multipliers for each of the included biomarkers.
