@@ -14,7 +14,7 @@ The table ranks the top biomarkers with the greatest impact (or strength) in the
 Below are values for our model's most predictive biomarkers for adverse brain health outcomes in males and females aged 60 to 70.
 
 
-![Cognitivevmr](/assets/images/table_dementia.png)
+![Cognitivevmr](/assets/images/table_Dementia_V2.png)
 
 
 The table below contains brain health prevalence multipliers for each of the included biomarkers.
