@@ -13,7 +13,7 @@ The table ranks the top biomarkers with the greatest impact (or strength) in the
 Below are values for our model's most predictive biomarkers for adverse metabolic health outcomes in males and females aged 40 to 70.
 
 
-![Metabolicvmr](/assets/images/table_diabetes.png)
+![Metabolicvmr](/assets/images/table_T2D_V2.png)
 
 
 The table below contains metabolic health prevalence multipliers for each of the included biomarkers.
