@@ -15,7 +15,7 @@ The table ranks the top biomarkers with the greatest impact (or strength) in the
 Below are values for our model's most predictive biomarkers for predicting adverse kidney health outcomes in males and females aged 55 to 70.
 
 
-![Kidneyvmr](/assets/images/table_renal.png)
+![Kidneyvmr](/assets/images/table_ARD_V2.png)
 
 
 The table below contains kidney health prevalence multipliers for each of the included biomarkers.
