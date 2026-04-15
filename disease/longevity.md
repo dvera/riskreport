@@ -16,7 +16,7 @@ Below are values for our model's most predictive biomarkers for adverse outcomes
 ![Logevityvmr](/assets/images/table_Mortality_V2.png)
 
 
-The table below contains longevity prevalence multipliers for each of the included biomarkers.
+The tables below contain longevity prevalence multipliers (PM) for each of the included biomarkers.
 
 
 ![Metabolicrr](/assets/images/disease_rr_Mortality.png)
