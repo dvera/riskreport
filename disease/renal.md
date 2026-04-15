@@ -18,7 +18,7 @@ Below are values for our model's most predictive biomarkers for predicting adver
 ![Kidneyvmr](/assets/images/table_ARD_V2.png)
 
 
-The table below contains kidney health prevalence multipliers for each of the included biomarkers.
+The tables below contain kidney health prevalence multipliers for each of the above biomarkers.
 
 
 ![Kidneyrr](/assets/images/disease_rr_ARD.png)
