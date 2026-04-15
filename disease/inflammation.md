@@ -17,7 +17,7 @@ Below are values for our model's most predictive biomarkers for adverse inflamma
 ![Inflammationvmr](/assets/images/table_Inflammation_V2.png)
 
 
-The table below contains inflammation health prevalence multipliers for each of the included biomarkers.
+The tables below contain inflammation health prevalence multipliers (PM) for each of the above biomarkers.
 
 
 ![Cognitiverr](/assets/images/disease_rr_Inflammation.png)
