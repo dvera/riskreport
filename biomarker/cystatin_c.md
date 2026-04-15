@@ -9,7 +9,7 @@ nav_order: 1
 ## Cystatin C
 
 
-"Cystatin C is protein found in the blood that helps measure kidney function. It is produced at a steady rate by most cells in the body and then filtered out by the kidneys. By measuring how much cystatin C is in the blood, clinicians can estimate how well the kidneys are working. When kidney function is good, cystatin C levels are low because the kidneys filter it out efficiently. High levels can suggest the kidneys are not filtering well, which may indicate kidney disease. Cystatin C is especially useful because it is less affected by factors like muscle mass, potentially making it a more accurate measure of kidney health than other tests, like creatinine."
+Cystatin C is protein found in the blood that helps measure kidney function. It is produced at a steady rate by most cells in the body and filtered out of the body by the kidneys. By measuring how much cystatin C is in the blood, clinicians can estimate how well the kidneys are working. When kidney function is optimal, cystatin C levels are low. High levels of cystatin C can suggest the kidneys are not filtering efficiently, which may be indicative of kidney disease. Cystatin C is an especially useful biomarker to measure because it is less affected by other factors like muscle mass, potentially making it a more accurate measure of kidney health than other tests, like creatinine.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
