@@ -9,7 +9,8 @@ nav_order: 1
 ## C-Reactive Protein (CRP)
 
 
-C-Reactive Protein (CRP) is a protein made by the liver. Normally, a person will have low levels of CRP in blood, and the liver releases more CRP into the bloodstream if it detects inflammation. High levels of CRP may indicate a serious health condition causing inflammation. Inflammation is the body's way of protecting tissues and helping them heal from an injury, infection, or other diseases. If inflammation lasts too long, it can damage healthy tissues. This is called chronic (long-term) inflammation. Chronic infections, certain autoimmune disorders, and other diseases can cause harmful chronic inflammation. Chronic inflammation also occurs if tissues are repeatedly injured or irritated, for example, from smoking or exposure to chemicals in the environment.
+
+C-Reactive Protein (CRP) is a protein made by the liver. Normally, a person will have low levels of CRP in blood, and the liver releases more CRP into the bloodstream if it detects inflammation. High levels of CRP may indicate serious health conditions causing inflammation. Inflammation is the body's way of protecting tissues and helping them heal from injury, infection, or other diseases. If inflammation lasts too long, it can damage healthy tissues. This is called chronic (long-term) inflammation. Chronic infections, certain autoimmune disorders, and other diseases can cause harmful chronic inflammation. Chronic inflammation also occurs if tissues are repeatedly injured or irritated, for example, from smoking or exposure to chemicals in the environment.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
