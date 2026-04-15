@@ -9,7 +9,7 @@ nav_order: 6
 ## Body Fat Percentage
 
 
-"Proportion of body weight that is fat tissue. High body fat increases risk for metabolic syndrome, diabetes, and cardiovascular disease."
+Body fat percentage is the proportion of body weight that is fat tissue. High body fat increases prevalence of metabolic syndrome, diabetes, and cardiovascular disease outcomes. 
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
