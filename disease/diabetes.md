@@ -16,7 +16,7 @@ Below are values for our model's most predictive biomarkers for adverse metaboli
 ![Metabolicvmr](/assets/images/table_T2D_V2.png)
 
 
-The tables below contain metabolic health prevalence multipliers for each of the above biomarkers.
+The tables below contain metabolic health prevalence multipliers (PM) for each of the above biomarkers.
 
 
 ![Metabolicrr](/assets/images/disease_rr_T2D.png)
