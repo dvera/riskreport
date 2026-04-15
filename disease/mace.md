@@ -14,7 +14,7 @@ The table ranks the top biomarkers with the greatest impact (or strength) in the
 ![Cardiacvmr](/assets/images/table_MACE3_V2.png)
 
 
-The table below contains cardiovascular health prevalence multipliers (PM) for each of the included biomarkers.
+The tables below contains cardiovascular health prevalence multipliers (PM) for each of the included biomarkers.
 
 
 ![Cardiacrr](/assets/images/disease_rr_MACE3_v2.png)
