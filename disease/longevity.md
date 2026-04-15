@@ -19,5 +19,5 @@ Below are values for our model's most predictive biomarkers for adverse outcomes
 The table below contains longevity prevalence multipliers for each of the included biomarkers.
 
 
-![Metabolicrr](/assets/images/rr_diabetes.png)
+![Metabolicrr](/assets/images/disease_rr_Mortality.png)
 
