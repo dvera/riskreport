@@ -17,6 +17,6 @@ The table ranks the top biomarkers with the greatest impact (or strength) in the
 The table below contains cardiovascular health prevalence multipliers for each of the included biomarkers.
 
 
-![Cardiacrr](/assets/images/disease_rr_MACE3.png)
+![Cardiacrr](/assets/images/disease_rr_MACE3_v2.png)
 
 
