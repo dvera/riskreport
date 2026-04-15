@@ -30,7 +30,11 @@ Below are the six domains where Cystatin C was a top predictor, ordered by stren
 
 Lipoprotein(a) did not emerge as a top predictor for any domain on our list, despite being heavily monitored and a recommended test by physicians. In fact, our models found it to be especially unpredictive of all domain specific adverse outcomes, as shown in the table of risk multipliers below. Only cardiac (MACE) had an association with the highest values of Lipoprotein (a) but was modest in comparison with the associations of other biomarkers.
 
-![find_lpa](/assets/images/find_lpa.png)
+ <img src="/assets/images/vmrbiomarker_lpa__male.png" alt="Lipoprotein(a) VMR Male" style="margin-left: 15%">
+  <img src="/assets/images/rr_lpa__male.png" alt="Lipoprotein(a) RR Male">
+
+  <img src="/assets/images/vmrbiomarker_lpa__female.png" alt="Lipoprotein(a) VMR Female" style="margin-left: 15%; ">
+  <img src="/assets/images/rr_lpa__female.png" alt="Lipoprotein(a) RR Female">
 
 ## Quitting smoking leads to substantial risk reduction.
 
