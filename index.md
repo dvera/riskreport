@@ -33,7 +33,7 @@ Biomarkers offer insights into your health, and if modeled correctly, are valuab
 
 ## What is a prevalence multiplier?
 
-The biomarker prevalence multiplier is a metric measuring the degree to which the biomarker value is impacting the health domain and provides insights into whether an individual is at increased or decreased prevalence of adverse health outcomes, when compared with a peer population. Prevalence multiplier values above 1.0 indicate increased prevalence, whereas values below 1.0 indicate decreased prevalence. As an example, an individual biomarker with a prevalence multiplier of 1.4 indicated 40% increased prevalence of associated diseases and adverse outcomes of a health domain within a 15-year timespan, compared to peers of the same age and sex. 
+The biomarker prevalence multiplier is a metric measuring the degree to which the biomarker value is impacting the health domain and provides insights into whether an individual is at increased or decreased prevalence of adverse health outcomes, when compared with a peer population. Prevalence multiplier values above 1.0 indicate increased prevalence, whereas a prevalence multiplier of 1.0 indicates lowest possible prevalence. As an example, an individual biomarker with a prevalence multiplier of 1.4 indicated 40% increased prevalence of associated diseases and adverse outcomes of a health domain within a 15-year timespan, compared to peers of the same age and sex.
 
 ![riskmultiplier](/assets/images/prevalencemultiplier.png)
 
