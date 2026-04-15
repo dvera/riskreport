@@ -20,6 +20,6 @@ Below are values for our model's most predictive biomarkers for adverse inflamma
 The table below contains inflammation health prevalence multipliers for each of the included biomarkers.
 
 
-![Cognitiverr](/assets/images/rr_dementia.png)
+![Cognitiverr](/assets/images/disease_rr_dementia.png)
 
 
