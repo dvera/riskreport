@@ -9,7 +9,7 @@ nav_order: 5
 ## Waist Circumference
 
 
-"Measurement around the abdomen. High values indicate abdominal obesity, a strong risk factor for metabolic syndrome, diabetes, and heart disease."
+Waist circumference is measured around the abdomen. High values may indicate abdominal obesity, a strong risk factor for metabolic syndrome, diabetes, and heart disease.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
