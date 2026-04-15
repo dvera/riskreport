@@ -17,7 +17,7 @@ Below are values for our model's most predictive biomarkers for adverse brain he
 ![Cognitivevmr](/assets/images/table_Dementia_V2.png)
 
 
-The table below contains brain health prevalence multipliers for each of the included biomarkers.
+The tables below contain brain health prevalence multipliers (PM) for each of the above biomarkers.
 
 
 ![Cognitiverr](/assets/images/disease_rr_Dementia.png)
