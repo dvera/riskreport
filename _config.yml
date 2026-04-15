@@ -1,6 +1,6 @@
 title: VH Biomarker Reference Guide
 description: Voloridge Health Biomarker Reference Guide
-theme: just-the-docs
+remote_theme: just-the-docs
 logo: "/assets/images/logo.png"
 markdown: kramdown
 callouts_level: quiet # or loud
@@ -30,4 +30,6 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+plugins: 
+  - jekyll-remote-theme
 
