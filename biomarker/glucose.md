@@ -9,7 +9,7 @@ nav_order: 1
 ## Blood Glucose
 
 
-Blood glucose is a measure of blood sugar level and is used to diagnose and monitor diabetes. Blood glucose is regulated by insuli and produced/processed by the pancreas and liver.
+Blood glucose is a measure of blood sugar level and is used to diagnose and monitor diabetes. Blood glucose is regulated by insulin and produced/processed by the pancreas and liver.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
