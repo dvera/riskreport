@@ -9,7 +9,7 @@ nav_order: 4
 ## Apolipoprotein B (ApoB)
 
 
-Apolipoprotein B (apoB) is the main protein found in atherogenic lipoproteins like LDL and VLDL, with each particle carrying one apoB molecule. Because of this, apoB levels reflect the total number of these cholesterol-carrying particles in the blood and are considered a more accurate indicator of cardiovascular outcome than traditional LDL-C measurements.
+Apolipoprotein B (apoB) is the main protein found in atherogenic lipoproteins like LDL and VLDL, with each particle carrying one apoB molecule. ApoB levels reflect the total number of these cholesterol-carrying particles in the blood and are considered a more accurate indicator of cardiovascular outcomes than LDL measurements.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
