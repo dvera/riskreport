@@ -9,7 +9,7 @@ nav_order: 1
 ## White Blood Cell Count
 
 
-"White Blood Cell (WBC) Count (also called leukocytes) is a measurement of your white blood cells, which are part of your immune system. They are a type of blood cell made in your bone marrow and found in your blood and lymph tissue (part of your immune system). WBCs help your body fight off infections and other diseases."
+White Blood Cell (WBC) Count (also called leukocytes) is a measurement of white blood cells, which are part of the immune system. They are a type of blood cell made in the bone marrow and found in blood and lymph tissue (part of your immune system). WBCs help the body fight off infections and other diseases.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
