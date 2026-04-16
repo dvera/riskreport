@@ -9,7 +9,7 @@ nav_order: 4
 ## Lymphocyte Percentage
 
 
-"Proportion of white blood cells that are lymphocytes, key to immune defense."
+Lymphocyte percentage calculates the proportion of white blood cells that are lymphocytes, key to immune defense.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
