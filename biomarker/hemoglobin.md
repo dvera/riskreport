@@ -9,7 +9,7 @@ nav_order: 5
 ## Hemoglobin
 
 
-Hemoglobin is an iron-rich protein in red blood cells. It carries oxygen from the lungs to the rest of the body, as cells need oxygen to grow, reproduce, and generate energy. Hemoglobin levels provide information about the health of red blood cells. Abnormal hemoglobin levels may indicate a blood disorder, often referred to as anemia.
+Hemoglobin is an iron-rich protein in red blood cells. It carries oxygen from the lungs to the rest of the body, as cells need oxygen to grow, reproduce, and generate energy. Hemoglobin levels provide information about the health of red blood cells. Abnormal hemoglobin levels may indicate anemia, a blood disorder. 
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
