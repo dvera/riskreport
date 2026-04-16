@@ -9,7 +9,7 @@ nav_order: 3
 ## Lymphocyte Count
 
 
-"Absolute number of lymphocytes in blood, reflecting immune system activity."
+Lymphocyte count is the absolute number of lymphocytes in blood, reflecting immune system activity.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
