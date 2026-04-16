@@ -14,10 +14,10 @@ Mean Corpuscular Volume (MCV) is part of a complete blood count (CBC), a common 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
   <img src="/assets/images/vmrbiomarker_mcv__male.png" alt="Mean Corpuscular Volume (MCV) VMR Male" style="margin-left: 15%">
-  <img src="/assets/images/rr_mcv__male.png" alt="Mean Corpuscular Volume (MCV) RR Male">
+  <img src="/assets/images/rr_MCV__male.png" alt="Mean Corpuscular Volume (MCV) RR Male">
 
   <img src="/assets/images/vmrbiomarker_mcv__female.png" alt="Mean Corpuscular Volume (MCV) VMR Female" style="margin-left: 15%; ">
-  <img src="/assets/images/rr_mcv__female.png" alt="Mean Corpuscular Volume (MCV) RR Female">
+  <img src="/assets/images/rr_MCV__female.png" alt="Mean Corpuscular Volume (MCV) RR Female">
 
 </div>
 
