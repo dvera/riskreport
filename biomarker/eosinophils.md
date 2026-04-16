@@ -9,7 +9,7 @@ nav_order: 3
 ## Eosinophil Count
 
 
-"Type of white blood cell involved in allergic reactions and fighting parasites. High counts may indicate allergies, asthma, or parasitic infection."
+Eosinophils are a type of white blood cells involved in allergic reactions and fighting parasites. High counts may indicate allergies, asthma, or parasitic infection.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
