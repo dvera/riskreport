@@ -8,8 +8,7 @@ nav_order: 5
 
 ## Hematocrit
 
-
-Percentage of blood volume made up by red blood cells. 
+Hematocrit measures the percentage of red blood cells relative to total blood volume, serving as a key indicator of oxygen-carrying capacity in the body. Athletes often monitor hematocrit levels because higher values generally mean more red blood cells available to transport oxygen to working muscles, which can significantly impact endurance performance.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
