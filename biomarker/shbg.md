@@ -9,7 +9,7 @@ nav_order: 1
 ## Sex Hormone-Binding Globulin (SHBG)
 
 
-"SHBG (sex hormone binding globulin) is a protein made mostly in your liver. It binds (attaches) to sex hormones in your blood. SHBG helps control the amount of sex hormones actively working in your body. When the SHBG protein binds to sex hormones, your tissues can't use those hormones. Your tissues can only use sex hormones that are ""free,"" which means they aren't attached to proteins, such as SHBG. An SHBG test is usually done if you have signs and/or symptoms of having too much or too little of the sex hormone testosterone."
+Sex hormone binding globulin (SHBG) is a protein made mostly in the liver. It binds to sex hormones in blood and helps control the amount of sex hormones actively working in the body. When the SHBG protein binds to sex hormones, tissues aren't able to use these hormones. Tissues can only use sex hormones that are "free," which means they aren't attached to proteins, such as SHBG. An SHBG test is usually done if an individual has signs and/or symptoms of having too much or too little of the sex hormone testosterone.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
