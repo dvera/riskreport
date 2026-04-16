@@ -9,7 +9,7 @@ nav_order: 1
 ## Spirits Consumption
 
 
-Sel-reported intake of distilled alcoholic beverages (vodka, gin, whiskey, etc.), indicated in servings per week. High consumption increases risk for liver disease, cancer, and other health problems. 
+Self-reported intake of distilled alcoholic beverages (vodka, gin, whiskey, etc.), indicated in servings per week. High consumption increases risk for liver disease, cancer, and other health problems. 
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
