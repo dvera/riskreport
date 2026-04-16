@@ -9,7 +9,7 @@ nav_order: 1
 ## Testosterone
 
 
-"Testosterone is known as a ""male"" sex hormone, but females have testosterone in smaller amounts. Testosterone is made by the testicles (or testes), the part of the male reproductive system that makes sperm; the ovaries, the part of the female reproductive system that makes eggs; the adrenal glands, organs on top of each kidney that make several hormones."
+Testosterone is known as a "male" sex hormone, but females also have testosterone, but in smaller amounts. Testosterone is made by the testicles (or testes), the part of the male reproductive system that makes sperm and the ovaries, the part of the female reproductive system that makes eggs. Testosterone is also produced by the adrenal glands, the organs on top of each kidney that produce several hormones.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
