@@ -9,7 +9,7 @@ nav_order: 1
 ## Cheese Consumption
 
 
-Self-reported requency of cheese intake, indicated in servings per week. Cheese is rich in protein and calcium but can be high in saturated fat and salt. 
+Self-reported frequency of cheese intake, indicated in servings per week. Cheese is rich in protein and calcium but can be high in saturated fat and salt. 
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
