@@ -9,7 +9,7 @@ nav_order: 3
 ## Monocyte Count
 
 
-White blood cell type involved in immune defense and inflammation. High counts can indicate infection or chronic inflammation.
+Monocytes are a white blood cell type involved in immune defense and inflammation. High monocyte counts can indicate infection or chronic inflammation.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
