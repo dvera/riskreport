@@ -7,16 +7,16 @@ nav_order: 6
 
 ## Longevity 
 
-The table ranks the top biomarkers with the greatest impact (or strength) on long-term health and overall wellness, and identifies the Voloridge Modeled Ranges (VMRs). Each biomarker factors into your health and wellness differently than it may for other people, with certain biomarkers more important for some individuals over others, based on individualized data (e.g. age, sex, scores related to other biomarkers). Taking steps to improve biomarkers with the highest strength may help reduce the risk of, or impact of, aging-related illness. Talk to your doctor about steps you can take to improve your biomarkers for longevity.
+For longevity health, we model for all-cause mortality, referring to death due to any cause (except accidental). It includes dealth from the other age-related diseases in this guide but are not limited to them. 
 
 
-Below are values for our model's most predictive biomarkers for adverse outcomes in males and females aged 40 to 70.
+Below are values for our model's most predictive biomarkers for experiencing death in males and females aged 40 to 70.
 
 
 ![Logevityvmr](/assets/images/table_Mortality_V2.png)
 
 
-The tables below contain longevity prevalence multipliers (PM) for each of the included biomarkers.
+The tables below contain longevity risk multipliers (RM) for each of the included biomarkers.
 
 
 ![Metabolicrr](/assets/images/disease_rr_Mortality.png)
