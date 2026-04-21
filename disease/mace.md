@@ -14,7 +14,7 @@ For cardiac health we model and predict the 15-year probability of a Major Adver
 ![Cardiacvmr](/assets/images/table_MACE3_V2.png)
 
 
-The tables below contain cardiovascular health prevalence multipliers (PM) for each of the above biomarkers.
+The tables below contain cardiovascular health risk multipliers (RM) for each of the above biomarkers.
 
 
 ![Cardiacrr](/assets/images/disease_rr_MACE3_v2.png)
