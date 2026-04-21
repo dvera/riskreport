@@ -5,9 +5,9 @@ nav_order: 3
 has_children: TRUE
 ---
 
-# Prevalence Multipliers by Biomarker
+# Risk Multipliers by Biomarker
 
-Depending on your health goals, it can be more helpful to view prevalence multipliers by each biomarker. The first table below shows each of the biomarkers included and links you to the associated table of values.
+Depending on your health goals, it can be more helpful to view risk multipliers by each biomarker. The first table below shows each of the biomarkers included and links you to the associated table of values.
 
 ## Reading this Section
 
