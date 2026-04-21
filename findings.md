@@ -40,9 +40,9 @@ Lipoprotein(a) did not emerge as a top predictor for any domain on our list, des
 
 Smoking places enormous strains on the body in many ways including the impairment of cardiovascular and lung functions. It is never too late to quit using tobacco. The sooner a person quits smoking, the greater the individual reduction in cancer and other adverse outcomes.
 
-Our initial findings are consistent with the literature from the American Cancer Society *How to Quit Using Tobacco* report[[2]](#ftn2). We found substantial improvements in cardiovascular and lung outcome prevalence after two years of quitting despite the "smoke pack" history. Reductions in the first years were strong across both cardiovascular health and lung cancer. The more packs per year history reduced, the more opportunity for prevalence multiplier improvements.
+Our initial findings are consistent with the literature from the American Cancer Society *How to Quit Using Tobacco* report[[2]](#ftn2). We found substantial improvements in cardiovascular and lung health after two years of quitting despite the "smoke pack" history. Reductions in the first years were strong across both cardiovascular health and lung cancer. The more packs per year history reduced, the more opportunity for risk multiplier improvements.
 
-We found smokers who quit had prevalence multiplier improvements in cardiovascular health and lung cancer ranging from 23% to 51% in the first two years of quitting, and up to 83% reduction in the prevalence multiplier after 20 years. In comparison, the charts and graphs below show a non-smoker has a prevalence multiplier value of 0.27 for lung cancer and 0.38 for cardiovascular health.
+We found smokers who quit had risk multiplier improvements in cardiovascular health and lung cancer ranging from 23% to 51% in the first two years of quitting, and up to 83% reduction in the prevalence multiplier after 20 years. In comparison, the charts and graphs below show a non-smoker has a risk multiplier value of 0.27 for lung cancer and 0.38 for cardiovascular health.
 
 
 ![find_smoke0](/assets/images/find_smoke0.png)
