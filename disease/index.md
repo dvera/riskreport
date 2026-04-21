@@ -27,4 +27,4 @@ This section provides two parts. The first part includes a description of the di
 
 The second part includes disease-specific risk multipliers for each of the included biomarkers.
 
-![legendrr](/assets/images/legend_rr.v2.png)
+![legendrr](/assets/images/legend_rr_v2.png)
