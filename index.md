@@ -16,9 +16,9 @@ A guide for patients and clinicians to understand health through biomarkers
 
 ## Introduction
 
-Laboratory tests can be overwhelming. A lack of interpretive context and patient understanding can often eclipse the significance of critical health results. Clinicians face challenges integrating rapidly expanding medical evidence with clinical practice, creating a research-to-practice gap impeding optimal care. The Voloridge Health (VH) Biomarker Reference Guide is intended as an aid for understanding and evaluating laboratory test results and their impact on current health within six health domains, including longevity. This guide contains Voloridge Modeled Range (VMR) values for biomarkers and age-related illnesses, to provide clarity when reviewing test results.
+Blood test results can be overwhelming. You are often presented with significant information, yet not enough to truly understand what is important. Voloridge Health (VH) created this guide as a resource to help individuals and their care providers interpret lab test data. The guide contains ranges of values for biomarkers and age-related diseases. These ranges aim to provide clarity when reviewing blood test results.  
 
-The six health domains were selected based on their impact on aging and overall health and wellness. Although Voloridge Health models for additional health domains and outcomes, this version of the Biomarker Reference Guide explores the cardiovascular, kidney, metabolic, brain, inflammation, and longevity domains. 
+This guide explores six common age-associated, disease-related outcomes related to cardiac, kidney, metabolic, brain, inflammation, and longevity health domains. The VH team chose these outcomes based on the prevalence and individual impacts on aging and overall wellness. 
 
 Patients should seek advice from a qualified healthcare professional with any questions regarding diagnosis, cure, treatment, mitigation, prevention of disease, medical conditions, or impairment in health. The VH Biomarker Reference Guide does not account for all important factors linked to health and therefore cannot rule out the presence or absence of disease or other medical conditions.
 
@@ -28,14 +28,14 @@ Patients should seek advice from a qualified healthcare professional with any qu
 The first step to understanding your bloodwork is recognizing what a blood test is collecting and measuring. A biomarker, or biological marker, is a measurable indicator of a biological process or condition in your body.[[1]](#ftn1)  One of the most common ways to measure certain biomarkers is through blood tests, if the biomarker is present in your blood.
 
 
-Biomarkers offer insights into your health, and if modeled correctly, are valuable predictors of favorable and unfavorable outcomes across multiple health domains. A simple blood test can provide valuable information about your cardiovascular health, kidney health, longevity, and more.[[2]](#ftn2)  Understanding what biomarkers reveal about your personal health is the key to an accurate interpretation of your blood test results. To assist with this challenge, we present information in this guide in the form of risk multipliers and Voloridge Modeled Range values or VMR values.
+Biomarkers offer insights into your health, including early detection of diseases. A simple blood test can provide valuable information about your risk for heart (cardiac) disease, kidney disease, and more.[[2]](#ftn2)  Understanding what biomarkers reveal about your personal health is the key to an accurate interpretation of your blood test results. To assist with this challenge, we present information in this guide in the form of risk multipliers and Voloridge Modeled Range values or VMR values.
 
 
-## What is a prevalence multiplier?
+## What is a risk multiplier?
 
-The biomarker prevalence multiplier is a metric measuring the degree to which the biomarker value is impacting the health domain and provides insights into whether an individual is at increased or decreased prevalence of adverse health outcomes, when compared with a peer population. Prevalence multiplier values above 1.0 indicate increased prevalence, whereas a prevalence multiplier of 1.0 indicates lowest possible prevalence. As an example, an individual biomarker with a prevalence multiplier of 1.4 indicated 40% increased prevalence of associated diseases and adverse outcomes of a health domain within a 15-year timespan, compared to peers of the same age and sex.
+A risk multiplier represents the association between biomarker values and future incidence of a disease. The biomarker range associated with the lowest incidence is assigned a risk multiplier of 1.  After that, if for example a biomarker range has a 40% increase in incidence, it would have a value of 1.4. All risk multiplier values are separated by gender and represent relative incidence of the disease compared to others your age.
 
-![riskmultiplier](/assets/images/prevalencemultiplier.png)
+![riskmultiplier](/assets/images/riskmultiplier.png)
 
 ## What is the Voloridge Modeled Range (VMR)?
 
