@@ -8,7 +8,7 @@ nav_order: 1
 ## Cardiovascular Health
 
 
-The table ranks the top biomarkers with the greatest impact (or strength) in the cardiovascular health domain and identifies the Voloridge Modeled Ranges (VMRs). Each biomarker factors into your health and wellness differently than it may for other people, with certain biomarkers more important for some individuals over others, based on individualized data (e.g. age, sex, scores related to other biomarkers). Taking steps to improve biomarkers with the highest strength may help reduce the risk of, or impact of, chronic cardiovascular disease including heart attack, stroke, and cardiovascular death. Talk to your doctor about steps you can take to improve your biomarkers for cardiovascular health. 
+For cardiac health we model and predict the 15-year probability of a Major Adverse Cardiac Event (MACE).  We define MACE as all myocardial infarctions (or heart attacks), all strokes (hemorrhagic and ischemic) and complications following these events. Below are values of our model’s most predictive biomarkers for MACE in males and females aged 55 to 70 with no prior history of MACE.
 
 
 ![Cardiacvmr](/assets/images/table_MACE3_V2.png)
