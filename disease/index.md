@@ -16,7 +16,7 @@ This section provides VMR values for our models' most predictive biomarkers in e
 - [Metabolic Health](/disease/diabetes/)
 - [Brain Health](/disease/dementia/)
 - [Inflammation Health](/disease/inflammation/)
-- [Longevity](/disease/longevity/)
+- [Longevity](/disease//longevity/)
 
 
 ## About this Section
