@@ -7,17 +7,15 @@ nav_order: 5
 
 ## Inflammation Health
 
-The table ranks the top biomarkers with the greatest impact (or strength) in the inflammation health domain and identifies the Voloridge Modeled Ranges (VMRs). The biomarkers listed are predictive of gdf15, a marker associated with inflammation and cellular stress. Each biomarker factors into your health and wellness differently than it may for other people, with certain biomarkers more important for some individuals over others, based on individualized data (e.g. age, sex, scores related to other biomarkers). Taking steps to improve biomarkers with the highest strength may help reduce the production of gdf15. Talk to your doctor about steps you can take to improve your biomarkers for inflammation health.
+For inflammation health we model and predict for gdf15, a marker associated with inflammation and cellular stress. Persistently elevated GDF15 may reflect ongoing inflammatory burden, which has been linked to increased risk of cardiovascular disease, metabolic dysfunction, and accelerated biological aging.
 
-
-
-Below are values for our model's most predictive biomarkers for adverse inflammation health outcomes in males and females aged 40 to 70.
+Below are values for our model's most predictive biomarkers for gdf15 in males and females aged 40 to 70.
 
 
 ![Inflammationvmr](/assets/images/table_Inflammation_V2.png)
 
 
-The tables below contain inflammation health prevalence multipliers (PM) for each of the above biomarkers.
+The tables below contain inflammation health risk multipliers (RM) for each of the above biomarkers.
 
 
 ![Cognitiverr](/assets/images/disease_rr_Inflammation.png)
