@@ -21,10 +21,10 @@ This section provides VMR values for our models' most predictive biomarkers in e
 
 ## About this Section
 
-This section provides two parts. The first part includes a description of the health domain category and a table portraying the strength values for our model's most predictive biomarkers for adverse outcomes within the health domain, as well as the VMR for each biomarker. Note that VMRs in this section are overall ranges spanning across all domains, rather than values for a specific domain.
+This section provides two parts. The first part includes a description of the disease modeled within each health domain and a table portraying the strength values for our model’s most predictive biomarkers for that disease, as well as the VMR for each biomarker. Note that VMR in this section are overall ranges, rather than values for a specific disease.
 
-![legendvmr](/assets/images/legend_strength_prevalence.png)
+![legendvmr](/assets/images/legend_strength_risk.png)
 
-The second part of each domain page includes domain-specific prevalence multipliers for each of the included biomarkers.
+The second part includes disease-specific risk multipliers for each of the included biomarkers.
 
-![legendrr](/assets/images/legend_pm.png)
+![legendrr](/assets/images/legend_rm.png)
