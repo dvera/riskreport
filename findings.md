@@ -59,7 +59,7 @@ During the UK Biobank research we examined correlations of reported uses of seve
 
 Nutraceuticals are the formulation of nutrients directed toward prevention and treatment of age-related adverse outcomes (i.e. anemia, vitamin deficiencies), in addition to diet supplementation offering purported preventive health care choices for consumers. While the effects of many of these products on health and disease remain unclear, ongoing and future research will further shed light on their benefits and risks. Generally, nutraceuticals are not involved in clinical trials and approved by the FDA for statements related to improved health. For a comprehensive review please reference Nutrients, 2022 Nov 3;14(21):4637. https://www.mdpi.com/2072-6643/14/21/4637
 
-![find_nutra](/assets/images/find_nutra.png)
+![find_nutra](/assets/images/rr_vitamins_combined.png)
 
 * * * * *
 <a name="ftn1"></a>
