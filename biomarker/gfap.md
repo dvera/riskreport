@@ -9,7 +9,7 @@ nav_order: 1
 ## GFAP
 
 
-"Glial Fibrillary Acidic Protein, found in brain and spinal cord. Marker for brain injury and neurological disease."
+Glial Fibrillary Acidic Protein is found in the brain and spinal cord and is a marker for brain injury and neurological disease.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
