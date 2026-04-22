@@ -9,7 +9,7 @@ nav_order: 1
 ## Histidine
 
 
-"Essential amino acid involved in growth, tissue repair, and production of histamine, an immune mediator."
+Histidine is an essential amino acid involved in tissue repair and production of histamine, an immune mediator.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
