@@ -9,7 +9,7 @@ nav_order: 1
 ## Glutamine
 
 
-"Amino acid important for immune function, gut health, and muscle recovery. Used as a supplement in clinical and athletic settings."
+Glutamine is an amino acid important for immune function, gut health, and muscle recovery. It is used as a supplement in both clinical and athletic settings.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
