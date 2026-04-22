@@ -53,13 +53,6 @@ When comparing smokers to "never smokers" the early washout (resolution of the n
 
 ![find_smoke2](/assets/images/find_smoke2.png)
 
-## Nutraceuticals correlate with prevalence multipliers.
-
-During the UK Biobank research we examined correlations of reported uses of several products. Our research is ongoing regarding these products and their impact on specific outcomes. Below are early results of correlations and prevalence multipliers for several products and the categories in this guide. We continue to refine this work and will report additional findings soon.
-
-Nutraceuticals are the formulation of nutrients directed toward prevention and treatment of age-related adverse outcomes (i.e. anemia, vitamin deficiencies), in addition to diet supplementation offering purported preventive health care choices for consumers. While the effects of many of these products on health and disease remain unclear, ongoing and future research will further shed light on their benefits and risks. Generally, nutraceuticals are not involved in clinical trials and approved by the FDA for statements related to improved health. For a comprehensive review please reference Nutrients, 2022 Nov 3;14(21):4637. https://www.mdpi.com/2072-6643/14/21/4637
-
-![find_nutra](/assets/images/rr_vitamins_combined.png)
 
 * * * * *
 <a name="ftn1"></a>
