@@ -9,7 +9,7 @@ nav_order: 1
 ## Leucine
 
 
-"Essential branched-chain amino acid important for protein synthesis, muscle repair, and energy production."
+Leucine is an essential branched-chain amino acid important for protein synthesis, muscle repair, and energy production.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
