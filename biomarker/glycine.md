@@ -8,8 +8,7 @@ nav_order: 1
 
 ## Glycine
 
-
-"Non-essential amino acid involved in protein synthesis, neurotransmission, and as a precursor for other biomolecules."
+Glycine is a non-essential amino acid involved in protein synthesis, neurotransmission, and serves as a precursor for other biomolecules interactions. 
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
