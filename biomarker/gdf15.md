@@ -9,7 +9,7 @@ nav_order: 1
 ## GDF15
 
 
-"Growth Differentiation Factor 15, a protein regulating inflammation and cellular stress. Elevated in cancer, heart disease, and metabolic disorders."
+Growth Differentiation Factor 15 is a protein regulating inflammation and cellular stress. GDF15 levels are elevated in the presence of cancer, heart disease, and metabolic disorders.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
