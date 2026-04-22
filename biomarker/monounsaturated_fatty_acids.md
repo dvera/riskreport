@@ -9,7 +9,7 @@ nav_order: 1
 ## Monounsaturated Fatty Acids
 
 
-"Healthy fats found in olive oil, nuts, and avocados. Support heart health by improving cholesterol and reducing inflammation."
+Monounsaturated fatty acids are healthy fats found in olive oil, nuts, and avocados. They support heart health by improving cholesterol levels and reducing inflammation.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
