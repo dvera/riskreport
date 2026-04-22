@@ -9,7 +9,7 @@ nav_order: 1
 ## EFNA4
 
 
-"Ephrin-A4, a protein involved in cell signaling, especially in nervous system development."
+Ephrin-A4 is a protein involved in cell signaling, especially in nervous system development.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
