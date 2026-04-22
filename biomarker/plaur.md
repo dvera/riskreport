@@ -9,7 +9,7 @@ nav_order: 1
 ## PLAUR
 
 
-"Plasminogen Activator, Urokinase Receptor, involved in breaking down blood clots and tissue remodeling."
+Plasminogen activator urokinase receptor is involved in breaking down blood clots and tissue remodeling.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
