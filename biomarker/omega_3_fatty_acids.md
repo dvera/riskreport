@@ -9,7 +9,7 @@ nav_order: 1
 ## Omega-3 Fatty Acids
 
 
-"Essential polyunsaturated fats found in fish and some plants. Reduce inflammation, support heart and brain health, lower risk of chronic diseases."
+Omega-3 fatty acids are essential polyunsaturated fats found in fish and some plants. Reduce inflammation, support heart and brain health, lower risk of chronic diseases.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
