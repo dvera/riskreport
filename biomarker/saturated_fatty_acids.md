@@ -9,7 +9,7 @@ nav_order: 1
 ## Saturated Fatty Acids
 
 
-Fats found in animal products and some plant oils. High intake is associated with increased cholesterol and heart disease risk.
+Saturated fatty acids are fats found in animal products and some plant oils. High intake is associated with increased cholesterol and increased heart disease risk.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
