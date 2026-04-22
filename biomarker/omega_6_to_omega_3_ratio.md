@@ -9,7 +9,7 @@ nav_order: 1
 ## Omega-6 to Omega-3 Ratio
 
 
-Balance of omega-6 to omega-3 fatty acids in the diet. High ratio is linked to increased inflammation and risk of chronic disease.
+The omega-6 to omegag-3 ratio reflects the balance of omega-6 to omega-3 fatty acids in the diet. A high ratio is linked to increased inflammation and risk of chronic disease.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
