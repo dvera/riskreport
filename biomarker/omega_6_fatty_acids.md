@@ -9,7 +9,7 @@ nav_order: 1
 ## Omega-6 Fatty Acids
 
 
-Essential fats found in vegetable oils and nuts. Important for cell structure and metabolism; excess intake relative to omega-3s may promote inflammation.
+Omega-6 fatty acids are essential fats found in vegetable oils and nuts. They are important for cell structure and metabolism. Excess intake of omega-6 fatty acids relative to omega-3s may promote inflammation.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
