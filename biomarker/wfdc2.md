@@ -8,7 +8,7 @@ nav_order: "WAP Four-Disulfide Core Domain Protein 2 (HE4), used as a biomarker 
 
 ## WFDC2
 
-
+WAP four-disulfide core domain protein 2 is a small secreted protease inhibitor expressed in pulmonary epithelial and other tissues that is widely used as a tumor biomarker, particularly for ovarian cancer.
 
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
