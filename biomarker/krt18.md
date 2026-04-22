@@ -9,7 +9,7 @@ nav_order: 1
 ## KRT18
 
 
-"Keratin 18, a structural protein in epithelial cells. Marker of cell death in liver disease and some cancers."
+Keratin 18 is a structural protein in epithelial cells and is a marker of cell death in liver disease and some cancers.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
