@@ -9,7 +9,7 @@ nav_order: 1
 ## IGSF3
 
 
-"Immunoglobulin Superfamily Member 3, involved in cell adhesion and immune response."
+Immunoglobulin Superfamily Member 3 is involved in cell adhesion and immune response.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
