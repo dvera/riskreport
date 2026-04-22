@@ -9,7 +9,7 @@ nav_order: 1
 ## CXCL17
 
 
-CXCL17 is a chemokine protein is involved in immune cell recruitment and mucosal immunity. Its precise disease role is under study.
+CXCL17 is a chemokine protein involved in immune cell recruitment and mucosal immunity. Its precise disease role is under study.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
