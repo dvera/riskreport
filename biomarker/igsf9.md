@@ -9,7 +9,7 @@ nav_order: 1
 ## IGSF9
 
 
-"Immunoglobulin Superfamily Member 9, involved in cell-cell interactions, especially in the nervous system."
+Immunoglobulin Superfamily Member 9 is involved in cell-cell interactions, especially within the nervous system.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
