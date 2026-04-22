@@ -9,7 +9,7 @@ nav_order: 1
 ## NEFL
 
 
-Neurofilament Light Chain is a protein in nerve cells. It is a marker for nerve damage or neurodegenerative disease.
+Neurofilament light chain is a protein in nerve cells. It is a marker for nerve damage or neurodegenerative disease.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
