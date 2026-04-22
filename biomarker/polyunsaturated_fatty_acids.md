@@ -9,7 +9,7 @@ nav_order: 1
 ## Polyunsaturated Fatty Acids
 
 
-"Fats found in fish, nuts, and seeds. Includes omega-3 and omega-6 fatty acids, essential for health and inflammation regulation."
+Polyunsaturated fatty acids are fats found in fish, nuts, and seeds, including omega-3 and omega-6 fatty acids. Polyunsaturated fatty acids are essential for health and inflammation regulation.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
