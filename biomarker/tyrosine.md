@@ -9,7 +9,7 @@ nav_order: 1
 ## Tyrosine
 
 
-Amino acid used to make proteins and neurotransmitters like dopamine and norepinephrine.
+Tyrosine is an amino acid used to make proteins and neurotransmitters such as dopamine and norepinephrine.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
