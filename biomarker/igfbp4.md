@@ -9,7 +9,7 @@ nav_order: 1
 ## IGFBP4
 
 
-"Insulin-like Growth Factor Binding Protein 4, regulates IGF1 and IGF2 activity, modulating growth and metabolism."
+Insulin-like Growth Factor Binding Protein 4 regulates IGF1 and IGF2 activity, modulating growth and metabolism.
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
