@@ -10,7 +10,7 @@ nav_order: 7
 
 These four common biomarkers are routinely monitored by physicians. However, they did not emerge from our models as top predictors for cardiovascular health for neither males nor females.
 
-![find_table_cvd_manual](/assets/images/find_cvd_manual.png)
+![find_table_cvd_manual](/assets/images/table_cvd_manual.png)
 
 *Individuals are removed from our analysis if they report taking medications intended to directly modify the biomarker, including statins for cholesterol, or anti-hypertensives for blood pressure.
 
