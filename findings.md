@@ -24,7 +24,7 @@ Cystatin C is a protein found in the blood measuring kidney function. It is not 
 
 Below are the six domains where Cystatin C was a top predictor, ordered by strength of association. The "Rank" column shows where on the list Cystatin C ranks in comparison to the other biomarkers.
 
-![table_bl_Cystatin_C](/assets/images/table_bl_Cystatin_C.png)
+![table_bl__Cystatin_C](/assets/images/table_bl__Cystatin_C.png)
 
 ## Lipoprotein(a) is not predictive of any major diseases on our list.
 
