@@ -16,7 +16,7 @@ These four common biomarkers are routinely monitored by physicians. However, the
 
 For comparison, below are the most predictive biomarkers in our model inputs for cardiovascular health:
 
-![find_lipid2](/assets/images/find_lipid2.png)
+![find_lipid1](/assets/images/find_lipid1.png)
 
 ## Cystatin C is one of the most predictive markers for several domains.
 
