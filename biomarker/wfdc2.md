@@ -24,6 +24,6 @@ WAP four-disulfide core domain protein 2 is a small, secreted protease inhibitor
 
 
 <a name="ftn103"></a>
-[103]Bingle L, Cross SS, High AS, et al. WFDC2 (HE4): A potential role in the innate immunity of the oral cavity and respiratory tract and the development of adenocarcinomas of the lung. Respir Res. 2006;7(1):61. doi:10.1186/1465-9921-7-61
+<p style="margin-top: 1.5em;">[103]Bingle L, Cross SS, High AS, et al. WFDC2 (HE4): A potential role in the innate immunity of the oral cavity and respiratory tract and the development of adenocarcinomas of the lung. Respir Res. 2006;7(1):61. doi:10.1186/1465-9921-7-61
 
 
