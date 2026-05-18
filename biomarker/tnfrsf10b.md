@@ -20,7 +20,7 @@ Tumor necrosis factor receptor superfamily member 10B is a protein involved in c
   <img src="/assets/images/rr_tnfrsf10b__female.png" alt="TNFRSF10B RR Female">
 
 
-  
+ <br> 
 
 <p style="margin-top: 3em;">
 <a name="ftn"></a>
