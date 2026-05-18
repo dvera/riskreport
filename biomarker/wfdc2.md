@@ -20,7 +20,7 @@ WAP four-disulfide core domain protein 2 is a small, secreted protease inhibitor
   <img src="/assets/images/rr_wfdc2__female.png" alt="WFDC2 RR Female">
 
 
-
+<br>
 
 
 <a name="ftn103"></a>
